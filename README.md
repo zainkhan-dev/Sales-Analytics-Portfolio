@@ -12,7 +12,7 @@ This Power BI project analyzes business performance across sales, customers, pro
 
 ## 🖼️ Screenshots
 ### Executive Summary
-![Executive Summary](<img width="748" height="434" alt="executive-summary" src="https://github.com/user-attachments/assets/a2dc5a8b-4f28-4a23-82c0-edb47a610c22" />
+![Executive Summary](<img width="748" height="434" alt="executive-summary" src="https://github.com/user-attachments/assets/d3628e41-e118-4fba-95bd-a90cc30204a9" />
 )
 
 ### Sales Performance
