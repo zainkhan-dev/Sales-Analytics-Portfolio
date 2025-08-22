@@ -1,0 +1,712 @@
+ProductID,ProductName,Category,SubCategory,Brand,CostPrice,ListPrice,StockQuantity,Weight,Dimensions,LaunchDate
+1,Microsoft Headphones Standard,Electronics,Headphones,Microsoft,856.7,1506.16,355,4.47,27x18x36cm,2022-12-03
+2,Sony Tablets Max,Electronics,Tablets,Sony,635.27,1152.54,964,7.72,23x40x10cm,2025-07-13
+3,Nintendo Headphones Standard,Electronics,Headphones,Nintendo,1139.91,1741.32,538,8.32,27x37x45cm,2021-07-02
+4,Nintendo Gaming Standard,Electronics,Gaming,Nintendo,351.4,773.36,609,7.75,10x44x5cm,2021-10-01
+5,Microsoft Laptops Standard,Electronics,Laptops,Microsoft,614.59,1309.38,836,6.49,15x39x31cm,2022-04-10
+6,Samsung Headphones Pro,Electronics,Headphones,Samsung,794.85,1237.71,263,0.95,43x37x45cm,2022-12-25
+7,Sony Tablets Max,Electronics,Tablets,Sony,443.66,1092.59,272,0.19,7x26x39cm,2022-09-12
+8,Apple Smartwatches Max,Electronics,Smartwatches,Apple,175.8,329.45,403,7.68,10x40x25cm,2022-09-19
+9,Microsoft Tablets Max,Electronics,Tablets,Microsoft,676.87,1498.47,67,1.49,7x11x6cm,2023-08-07
+10,Samsung Smartphones Lite,Electronics,Smartphones,Samsung,36.92,82.88,599,5.84,32x22x28cm,2024-06-18
+11,HP Laptops Max,Electronics,Laptops,HP,768.52,1406.93,928,9.46,8x32x27cm,2025-06-03
+12,Dell Smartwatches Max,Electronics,Smartwatches,Dell,71.09,104.61,781,2.86,38x28x22cm,2024-01-10
+13,HP Smartphones Pro,Electronics,Smartphones,HP,1012.84,1771.71,7,3.9,34x24x22cm,2021-04-18
+14,Dell Headphones Lite,Electronics,Headphones,Dell,181.52,313.72,487,6.1,27x39x10cm,2022-02-14
+15,Samsung Gaming Lite,Electronics,Gaming,Samsung,479.78,830.28,782,9.37,16x9x11cm,2022-02-06
+16,Sony Gaming Standard,Electronics,Gaming,Sony,1033.56,1987.17,546,5.65,17x30x7cm,2024-08-23
+17,Samsung Smartwatches Lite,Electronics,Smartwatches,Samsung,162.52,299.63,112,1.56,42x38x21cm,2023-09-26
+18,Dell Tablets Lite,Electronics,Tablets,Dell,30.95,66.55,571,4.24,9x14x14cm,2021-03-18
+19,Apple Smartwatches Pro,Electronics,Smartwatches,Apple,692.89,1214.08,357,1.21,35x38x46cm,2022-07-18
+20,Nintendo Tablets Max,Electronics,Tablets,Nintendo,866.24,1723.13,694,5.03,18x38x12cm,2022-12-29
+21,Samsung Tablets Lite,Electronics,Tablets,Samsung,789.94,1319.51,110,2.81,18x15x6cm,2023-05-03
+22,HP Laptops Lite,Electronics,Laptops,HP,1204.91,1964.14,984,0.91,12x21x9cm,2022-05-28
+23,Microsoft Headphones Pro,Electronics,Headphones,Microsoft,85.15,166.29,548,7.08,19x46x30cm,2023-02-26
+24,Dell Tablets Lite,Electronics,Tablets,Dell,532.02,1005.58,784,6.04,33x49x35cm,2020-11-08
+25,Microsoft Gaming Lite,Electronics,Gaming,Microsoft,507.55,926.26,17,4.81,23x17x8cm,2023-02-27
+26,Samsung Tablets Pro,Electronics,Tablets,Samsung,406.26,804.56,478,1.17,43x11x20cm,2024-11-30
+27,HP Tablets Standard,Electronics,Tablets,HP,453.92,1071.21,87,1.75,32x23x11cm,2021-11-30
+28,Samsung Headphones Standard,Electronics,Headphones,Samsung,42.51,70.61,422,1.64,22x43x5cm,2021-09-18
+29,Nintendo Tablets Lite,Electronics,Tablets,Nintendo,253.62,446.4,266,2.51,29x7x34cm,2023-10-30
+30,Dell Smartwatches Lite,Electronics,Smartwatches,Dell,525.67,1231.83,693,5.27,43x47x35cm,2021-04-13
+31,Sony Smartwatches Max,Electronics,Smartwatches,Sony,208.59,356.81,118,7.66,7x29x29cm,2023-10-18
+32,HP Headphones Lite,Electronics,Headphones,HP,912.53,1871.76,240,0.68,18x20x14cm,2023-09-16
+33,Samsung Headphones Max,Electronics,Headphones,Samsung,556.01,842.75,61,4.12,13x11x30cm,2020-09-15
+34,Dell Headphones Standard,Electronics,Headphones,Dell,290.94,433.34,527,8.32,23x39x47cm,2025-06-26
+35,Dell Smartwatches Lite,Electronics,Smartwatches,Dell,411.35,954.28,633,9.62,17x45x10cm,2024-11-12
+36,HP Smartwatches Lite,Electronics,Smartwatches,HP,1119.54,1988.3,378,9.13,19x18x43cm,2024-01-01
+37,Dell Smartwatches Pro,Electronics,Smartwatches,Dell,1117.14,1628.91,106,2.79,20x39x42cm,2021-07-19
+38,Nintendo Smartwatches Lite,Electronics,Smartwatches,Nintendo,389.57,668.01,173,9.24,31x19x13cm,2022-02-09
+39,Sony Laptops Standard,Electronics,Laptops,Sony,165.09,300.33,979,5.78,14x20x29cm,2025-03-31
+40,Apple Headphones Lite,Electronics,Headphones,Apple,237.54,406.06,155,7.97,42x46x24cm,2022-12-19
+41,Microsoft Tablets Max,Electronics,Tablets,Microsoft,473.14,756.19,888,7.83,21x32x35cm,2022-10-02
+42,Nintendo Headphones Lite,Electronics,Headphones,Nintendo,193.5,396.07,161,8.5,47x47x15cm,2024-10-09
+43,Samsung Smartphones Max,Electronics,Smartphones,Samsung,136.82,220.09,916,8.92,27x13x5cm,2022-07-01
+44,Microsoft Smartwatches Pro,Electronics,Smartwatches,Microsoft,544.91,815.38,201,3.33,40x33x9cm,2021-10-26
+45,Nintendo Smartwatches Lite,Electronics,Smartwatches,Nintendo,567.71,814.66,399,6.36,45x5x9cm,2021-07-26
+46,Dell Smartphones Pro,Electronics,Smartphones,Dell,115.27,198.37,737,4.4,22x6x20cm,2023-04-26
+47,Apple Smartwatches Pro,Electronics,Smartwatches,Apple,633.78,1412.52,874,2.86,8x8x29cm,2024-09-09
+48,Microsoft Smartphones Lite,Electronics,Smartphones,Microsoft,879.15,1526.75,518,6.72,14x40x35cm,2021-03-04
+49,Samsung Tablets Max,Electronics,Tablets,Samsung,797.0,1963.03,101,1.77,45x38x29cm,2024-02-13
+50,HP Smartphones Lite,Electronics,Smartphones,HP,727.58,1193.22,957,3.32,13x7x20cm,2021-09-29
+51,Nintendo Smartphones Max,Electronics,Smartphones,Nintendo,372.51,742.84,793,4.0,27x8x46cm,2021-09-10
+52,HP Gaming Pro,Electronics,Gaming,HP,868.99,1675.93,711,9.74,23x6x5cm,2024-04-10
+53,Microsoft Laptops Standard,Electronics,Laptops,Microsoft,598.39,1355.84,663,3.88,10x42x37cm,2025-06-12
+54,Nintendo Headphones Lite,Electronics,Headphones,Nintendo,703.04,1269.3,334,8.88,40x5x12cm,2025-02-06
+55,Microsoft Tablets Standard,Electronics,Tablets,Microsoft,349.73,566.16,836,0.14,45x44x33cm,2022-08-09
+56,Samsung Tablets Max,Electronics,Tablets,Samsung,770.43,1591.68,116,0.5,37x14x23cm,2022-08-22
+57,Samsung Smartwatches Lite,Electronics,Smartwatches,Samsung,767.73,1668.42,232,7.1,36x20x13cm,2024-03-29
+58,Microsoft Tablets Standard,Electronics,Tablets,Microsoft,623.56,1328.34,843,0.42,41x25x37cm,2021-01-11
+59,HP Smartphones Standard,Electronics,Smartphones,HP,397.14,618.04,174,2.93,31x14x36cm,2025-01-05
+60,HP Smartphones Lite,Electronics,Smartphones,HP,465.56,1001.31,322,1.61,15x14x43cm,2022-11-02
+61,Apple Headphones Standard,Electronics,Headphones,Apple,591.95,901.58,906,3.25,31x43x11cm,2022-07-11
+62,Samsung Smartphones Lite,Electronics,Smartphones,Samsung,872.08,1771.76,7,1.12,7x19x40cm,2021-07-11
+63,Apple Gaming Standard,Electronics,Gaming,Apple,153.61,304.21,229,6.9,34x17x43cm,2024-11-06
+64,Dell Headphones Pro,Electronics,Headphones,Dell,672.19,1152.14,727,6.67,18x21x7cm,2021-02-12
+65,Nintendo Gaming Lite,Electronics,Gaming,Nintendo,119.24,180.6,583,0.7,20x32x20cm,2022-08-11
+66,Microsoft Smartphones Pro,Electronics,Smartphones,Microsoft,774.48,1731.5,677,6.01,45x38x33cm,2023-03-28
+67,Samsung Tablets Pro,Electronics,Tablets,Samsung,33.1,71.88,695,2.46,21x37x10cm,2023-11-24
+68,Apple Laptops Standard,Electronics,Laptops,Apple,196.65,419.81,515,7.06,44x5x44cm,2023-11-06
+69,Nintendo Headphones Max,Electronics,Headphones,Nintendo,993.63,1589.35,729,8.99,5x21x20cm,2023-05-10
+70,Dell Smartwatches Pro,Electronics,Smartwatches,Dell,485.7,1148.59,555,0.79,38x10x32cm,2021-10-10
+71,Sony Headphones Pro,Electronics,Headphones,Sony,744.07,1361.18,999,2.19,6x12x46cm,2020-08-24
+72,Dell Smartphones Pro,Electronics,Smartphones,Dell,100.94,200.68,754,5.45,17x13x35cm,2022-03-14
+73,Dell Smartphones Max,Electronics,Smartphones,Dell,436.62,844.5,263,2.02,49x49x35cm,2025-08-02
+74,Nintendo Smartphones Max,Electronics,Smartphones,Nintendo,709.16,1392.4,45,8.87,33x44x22cm,2024-01-07
+75,Apple Headphones Pro,Electronics,Headphones,Apple,724.46,1139.02,117,2.99,29x29x13cm,2021-06-02
+76,Sony Headphones Max,Electronics,Headphones,Sony,779.93,1396.7,713,3.81,40x47x13cm,2024-08-22
+77,Dell Smartphones Max,Electronics,Smartphones,Dell,598.55,1430.56,621,5.4,40x32x19cm,2022-02-01
+78,Dell Tablets Max,Electronics,Tablets,Dell,449.0,1053.38,875,7.91,24x41x15cm,2024-08-17
+79,Microsoft Laptops Lite,Electronics,Laptops,Microsoft,195.02,345.78,262,5.39,26x14x44cm,2022-04-22
+80,Microsoft Smartwatches Pro,Electronics,Smartwatches,Microsoft,90.15,144.64,802,3.78,13x13x26cm,2024-08-10
+81,Samsung Laptops Max,Electronics,Laptops,Samsung,495.85,1007.72,402,9.39,14x5x16cm,2021-06-26
+82,HP Tablets Lite,Electronics,Tablets,HP,389.05,625.7,390,9.09,9x10x38cm,2021-12-09
+83,Nintendo Smartwatches Standard,Electronics,Smartwatches,Nintendo,224.11,466.74,557,1.3,7x29x27cm,2022-08-22
+84,Microsoft Tablets Standard,Electronics,Tablets,Microsoft,618.26,933.69,110,8.96,7x39x17cm,2021-08-24
+85,Apple Laptops Max,Electronics,Laptops,Apple,133.46,245.02,923,7.97,31x22x46cm,2022-05-06
+86,Microsoft Smartphones Pro,Electronics,Smartphones,Microsoft,488.1,827.06,332,1.2,40x37x25cm,2020-11-27
+87,Dell Laptops Max,Electronics,Laptops,Dell,109.3,266.87,762,0.75,18x49x45cm,2023-01-15
+88,Sony Laptops Standard,Electronics,Laptops,Sony,271.04,617.6,512,5.74,31x6x34cm,2022-09-14
+89,Samsung Tablets Pro,Electronics,Tablets,Samsung,114.53,269.26,943,2.72,12x35x49cm,2021-04-08
+90,Sony Smartphones Pro,Electronics,Smartphones,Sony,641.71,1127.64,56,2.77,45x33x10cm,2021-04-05
+91,Apple Laptops Standard,Electronics,Laptops,Apple,589.85,1099.32,454,10.0,32x40x14cm,2021-09-17
+92,Sony Laptops Lite,Electronics,Laptops,Sony,795.3,1475.6,147,7.21,49x23x32cm,2021-12-21
+93,HP Gaming Lite,Electronics,Gaming,HP,477.53,885.28,36,4.92,18x35x32cm,2025-08-08
+94,Dell Headphones Max,Electronics,Headphones,Dell,577.91,1285.19,0,7.55,32x8x45cm,2021-09-06
+95,Samsung Headphones Pro,Electronics,Headphones,Samsung,483.88,860.71,626,8.11,22x10x23cm,2024-11-22
+96,Dell Smartwatches Max,Electronics,Smartwatches,Dell,342.39,832.67,448,7.76,47x22x13cm,2023-04-17
+97,Nintendo Smartwatches Pro,Electronics,Smartwatches,Nintendo,931.34,1967.17,861,4.87,5x7x26cm,2023-03-11
+98,Apple Laptops Standard,Electronics,Laptops,Apple,906.64,1405.03,797,1.53,21x14x11cm,2024-04-04
+99,Samsung Tablets Pro,Electronics,Tablets,Samsung,758.03,1251.89,565,6.54,13x13x41cm,2025-03-20
+100,Apple Tablets Pro,Electronics,Tablets,Apple,389.78,591.18,151,8.22,23x35x15cm,2022-09-29
+101,Microsoft Gaming Standard,Electronics,Gaming,Microsoft,977.21,1534.82,314,1.69,45x39x42cm,2024-05-20
+102,Apple Smartphones Lite,Electronics,Smartphones,Apple,771.81,1380.35,581,2.98,31x28x22cm,2023-09-06
+103,Microsoft Tablets Standard,Electronics,Tablets,Microsoft,692.97,1262.67,442,7.01,37x22x7cm,2021-08-29
+104,Microsoft Smartphones Pro,Electronics,Smartphones,Microsoft,78.65,136.38,890,9.39,13x25x32cm,2023-05-28
+105,Dell Gaming Standard,Electronics,Gaming,Dell,33.63,50.6,572,6.57,24x20x14cm,2022-08-04
+106,Sony Laptops Pro,Electronics,Laptops,Sony,351.09,833.4,408,8.82,47x45x11cm,2024-08-20
+107,Apple Headphones Lite,Electronics,Headphones,Apple,485.17,1170.41,931,7.62,38x18x12cm,2024-05-20
+108,Samsung Tablets Lite,Electronics,Tablets,Samsung,527.87,1037.19,341,0.49,35x6x49cm,2024-07-22
+109,Microsoft Gaming Pro,Electronics,Gaming,Microsoft,972.28,1439.69,615,6.82,35x33x31cm,2021-03-09
+110,Nike Classic Accessories,Clothing,Accessories,Nike,15.85,36.97,215,0.95,20x40x15cm,2025-02-25
+111,Zara Sports Mens Wear,Clothing,Mens Wear,Zara,129.13,289.57,419,6.68,40x15x20cm,2022-04-24
+112,GAP Premium Mens Wear,Clothing,Mens Wear,GAP,160.52,267.54,339,1.45,11x18x15cm,2021-04-29
+113,GAP Sports Shoes,Clothing,Shoes,GAP,122.52,228.51,565,3.77,19x30x37cm,2023-12-17
+114,Uniqlo Premium Mens Wear,Clothing,Mens Wear,Uniqlo,138.65,275.05,130,9.18,11x26x18cm,2022-12-14
+115,Adidas Classic Accessories,Clothing,Accessories,Adidas,30.34,51.57,454,3.98,19x36x32cm,2020-12-11
+116,Uniqlo Sports Mens Wear,Clothing,Mens Wear,Uniqlo,121.03,240.95,994,9.6,12x6x35cm,2024-10-12
+117,H&M Sports Mens Wear,Clothing,Mens Wear,H&M,171.14,281.82,604,2.18,6x35x41cm,2023-01-06
+118,Levis Sports Shoes,Clothing,Shoes,Levis,124.96,193.36,261,4.57,38x35x16cm,2023-03-11
+119,Uniqlo Classic Shoes,Clothing,Shoes,Uniqlo,33.96,68.83,599,1.22,22x49x20cm,2025-03-10
+120,H&M Classic Shoes,Clothing,Shoes,H&M,75.12,124.39,17,3.88,37x31x46cm,2024-02-10
+121,GAP Premium Kids Wear,Clothing,Kids Wear,GAP,72.58,121.98,443,5.79,9x48x40cm,2021-11-23
+122,Levis Shoes Collection,Clothing,Shoes,Levis,38.92,92.25,236,8.64,5x25x44cm,2024-09-23
+123,Zara Classic Accessories,Clothing,Accessories,Zara,119.58,178.35,380,4.88,31x24x17cm,2020-09-04
+124,Levis Sports Shoes,Clothing,Shoes,Levis,18.88,32.73,637,0.42,5x17x18cm,2021-04-29
+125,Adidas Premium Mens Wear,Clothing,Mens Wear,Adidas,64.11,134.77,286,2.38,23x41x13cm,2021-11-08
+126,H&M Sports Accessories,Clothing,Accessories,H&M,75.87,111.42,690,9.85,18x44x24cm,2024-04-13
+127,GAP Sports Shoes,Clothing,Shoes,GAP,161.49,292.68,260,8.76,10x18x10cm,2025-05-02
+128,GAP Classic Shoes,Clothing,Shoes,GAP,91.3,169.77,135,4.25,30x12x45cm,2020-12-17
+129,Levis Accessories Collection,Clothing,Accessories,Levis,171.23,267.88,870,3.21,33x18x21cm,2024-01-09
+130,Levis Sports Accessories,Clothing,Accessories,Levis,60.11,136.65,544,9.35,43x23x28cm,2021-07-14
+131,Levis Classic Accessories,Clothing,Accessories,Levis,50.64,97.52,881,1.33,13x31x32cm,2022-08-29
+132,Adidas Premium Womens Wear,Clothing,Womens Wear,Adidas,72.6,123.53,467,2.04,36x33x22cm,2022-07-23
+133,H&M Sports Mens Wear,Clothing,Mens Wear,H&M,60.48,88.95,851,0.39,40x35x42cm,2023-12-25
+134,Zara Premium Shoes,Clothing,Shoes,Zara,14.68,27.52,375,8.24,5x10x28cm,2023-09-29
+135,Levis Classic Accessories,Clothing,Accessories,Levis,53.14,101.39,940,0.24,41x49x36cm,2023-08-28
+136,Adidas Classic Mens Wear,Clothing,Mens Wear,Adidas,22.1,31.72,172,0.49,16x8x46cm,2020-12-21
+137,Zara Classic Womens Wear,Clothing,Womens Wear,Zara,27.55,57.76,81,3.77,24x45x38cm,2024-09-25
+138,H&M Classic Kids Wear,Clothing,Kids Wear,H&M,68.51,142.09,332,1.21,36x42x10cm,2023-08-26
+139,GAP Classic Womens Wear,Clothing,Womens Wear,GAP,115.05,210.16,877,0.6,17x16x37cm,2021-03-05
+140,Nike Shoes Collection,Clothing,Shoes,Nike,121.13,284.84,807,4.9,32x32x29cm,2024-02-27
+141,Levis Premium Womens Wear,Clothing,Womens Wear,Levis,138.22,241.58,605,2.29,48x41x48cm,2021-01-29
+142,H&M Mens Wear Collection,Clothing,Mens Wear,H&M,62.07,107.02,213,8.85,24x30x20cm,2023-02-18
+143,H&M Premium Accessories,Clothing,Accessories,H&M,141.98,216.2,901,3.3,26x10x36cm,2022-07-25
+144,GAP Sports Mens Wear,Clothing,Mens Wear,GAP,56.09,118.82,956,6.47,17x36x26cm,2023-11-30
+145,GAP Sports Accessories,Clothing,Accessories,GAP,92.38,166.1,392,4.0,34x34x46cm,2021-11-17
+146,Uniqlo Premium Womens Wear,Clothing,Womens Wear,Uniqlo,110.94,180.35,740,7.54,40x7x8cm,2023-04-27
+147,GAP Sports Womens Wear,Clothing,Womens Wear,GAP,78.27,168.55,190,4.78,47x26x14cm,2022-06-26
+148,GAP Sports Shoes,Clothing,Shoes,GAP,16.27,32.5,697,2.99,5x36x29cm,2022-02-23
+149,Nike Sports Accessories,Clothing,Accessories,Nike,168.76,241.77,510,8.22,6x36x36cm,2024-12-08
+150,GAP Womens Wear Collection,Clothing,Womens Wear,GAP,135.99,246.53,373,6.56,47x7x9cm,2022-05-21
+151,Uniqlo Womens Wear Collection,Clothing,Womens Wear,Uniqlo,20.57,38.91,739,7.53,38x20x40cm,2021-11-15
+152,GAP Classic Womens Wear,Clothing,Womens Wear,GAP,43.66,106.7,818,8.96,8x18x9cm,2023-10-18
+153,Uniqlo Premium Mens Wear,Clothing,Mens Wear,Uniqlo,134.66,199.01,698,2.63,40x22x18cm,2024-07-03
+154,GAP Sports Womens Wear,Clothing,Womens Wear,GAP,77.55,115.71,359,8.43,25x29x31cm,2021-02-10
+155,Adidas Premium Womens Wear,Clothing,Womens Wear,Adidas,13.66,26.85,544,8.42,30x46x45cm,2021-11-09
+156,Adidas Classic Mens Wear,Clothing,Mens Wear,Adidas,18.77,40.72,662,6.15,32x19x23cm,2022-04-25
+157,Adidas Classic Shoes,Clothing,Shoes,Adidas,128.8,193.8,612,1.84,42x29x47cm,2024-04-02
+158,Adidas Sports Accessories,Clothing,Accessories,Adidas,53.19,121.57,186,2.51,37x9x20cm,2022-01-25
+159,Levis Classic Accessories,Clothing,Accessories,Levis,119.14,180.16,564,6.16,46x35x15cm,2022-04-09
+160,H&M Sports Womens Wear,Clothing,Womens Wear,H&M,115.11,216.49,794,3.97,24x7x20cm,2025-04-16
+161,Levis Classic Shoes,Clothing,Shoes,Levis,18.31,32.54,960,7.81,34x44x36cm,2023-05-19
+162,Zara Classic Womens Wear,Clothing,Womens Wear,Zara,135.98,222.83,233,2.38,40x40x29cm,2021-04-22
+163,Levis Sports Shoes,Clothing,Shoes,Levis,85.61,126.13,464,3.04,35x10x39cm,2024-02-15
+164,Uniqlo Classic Shoes,Clothing,Shoes,Uniqlo,111.91,167.88,53,7.21,30x38x14cm,2024-08-09
+165,Nike Classic Kids Wear,Clothing,Kids Wear,Nike,114.33,274.12,365,1.2,47x14x35cm,2021-11-29
+166,Nike Classic Womens Wear,Clothing,Womens Wear,Nike,27.57,51.47,400,3.54,7x19x12cm,2025-06-23
+167,GAP Premium Womens Wear,Clothing,Womens Wear,GAP,108.98,215.2,725,9.67,22x23x22cm,2024-12-27
+168,Adidas Accessories Collection,Clothing,Accessories,Adidas,96.96,217.59,922,3.09,10x17x27cm,2025-08-07
+169,Nike Premium Womens Wear,Clothing,Womens Wear,Nike,99.71,171.77,863,1.7,30x46x15cm,2025-01-15
+170,Zara Classic Mens Wear,Clothing,Mens Wear,Zara,106.78,153.35,313,8.03,25x25x12cm,2023-07-03
+171,GAP Mens Wear Collection,Clothing,Mens Wear,GAP,198.49,283.89,5,7.12,40x21x13cm,2024-07-15
+172,GAP Premium Shoes,Clothing,Shoes,GAP,61.32,149.36,501,2.88,13x41x7cm,2023-09-07
+173,Adidas Premium Womens Wear,Clothing,Womens Wear,Adidas,123.42,207.88,554,0.44,18x41x31cm,2023-10-29
+174,H&M Premium Mens Wear,Clothing,Mens Wear,H&M,172.18,272.24,0,0.66,5x15x11cm,2021-09-12
+175,Uniqlo Sports Womens Wear,Clothing,Womens Wear,Uniqlo,30.62,53.94,814,0.85,46x39x45cm,2021-11-16
+176,Levis Classic Mens Wear,Clothing,Mens Wear,Levis,81.75,172.69,234,4.34,48x14x27cm,2024-09-24
+177,H&M Classic Shoes,Clothing,Shoes,H&M,110.62,161.37,4,8.61,10x21x29cm,2021-10-28
+178,Nike Accessories Collection,Clothing,Accessories,Nike,135.6,286.86,25,0.93,6x32x6cm,2021-09-03
+179,Nike Premium Shoes,Clothing,Shoes,Nike,73.52,113.46,200,5.6,35x30x40cm,2021-03-25
+180,H&M Classic Womens Wear,Clothing,Womens Wear,H&M,124.18,225.65,782,0.69,37x9x41cm,2021-03-20
+181,Uniqlo Premium Shoes,Clothing,Shoes,Uniqlo,126.48,208.32,702,6.02,26x25x46cm,2022-08-06
+182,Levis Classic Mens Wear,Clothing,Mens Wear,Levis,73.69,121.21,902,7.39,44x44x47cm,2021-03-03
+183,Zara Premium Mens Wear,Clothing,Mens Wear,Zara,63.77,108.08,671,9.24,21x43x26cm,2022-11-05
+184,GAP Classic Kids Wear,Clothing,Kids Wear,GAP,74.64,178.08,676,3.44,10x38x36cm,2023-03-21
+185,Zara Mens Wear Collection,Clothing,Mens Wear,Zara,124.92,196.12,449,0.92,9x15x15cm,2025-02-08
+186,GAP Premium Accessories,Clothing,Accessories,GAP,64.8,101.66,468,6.99,42x6x44cm,2021-01-05
+187,GAP Classic Accessories,Clothing,Accessories,GAP,174.85,297.98,931,7.1,10x38x41cm,2022-12-03
+188,H&M Shoes Collection,Clothing,Shoes,H&M,45.99,92.41,617,2.61,47x13x38cm,2022-01-21
+189,GAP Kids Wear Collection,Clothing,Kids Wear,GAP,101.44,196.68,662,1.71,39x27x43cm,2024-01-20
+190,Levis Classic Womens Wear,Clothing,Womens Wear,Levis,160.03,243.05,575,0.46,34x25x28cm,2022-08-06
+191,Adidas Premium Accessories,Clothing,Accessories,Adidas,105.95,224.13,882,9.51,30x37x40cm,2022-12-20
+192,Nike Sports Shoes,Clothing,Shoes,Nike,151.16,295.19,837,2.06,40x25x26cm,2025-05-17
+193,Adidas Mens Wear Collection,Clothing,Mens Wear,Adidas,58.12,102.43,483,9.28,45x26x8cm,2021-04-14
+194,Levis Womens Wear Collection,Clothing,Womens Wear,Levis,55.6,123.52,320,6.25,28x8x22cm,2023-03-15
+195,Uniqlo Classic Mens Wear,Clothing,Mens Wear,Uniqlo,48.9,120.79,892,0.23,5x6x26cm,2021-10-04
+196,Zara Sports Accessories,Clothing,Accessories,Zara,160.01,288.52,747,9.17,46x11x46cm,2021-06-22
+197,Uniqlo Sports Womens Wear,Clothing,Womens Wear,Uniqlo,130.23,256.18,112,0.43,35x22x47cm,2021-07-17
+198,Levis Sports Womens Wear,Clothing,Womens Wear,Levis,96.82,203.27,309,1.88,37x25x24cm,2022-10-03
+199,Adidas Classic Kids Wear,Clothing,Kids Wear,Adidas,131.45,284.63,804,2.1,37x15x45cm,2022-12-12
+200,Adidas Premium Accessories,Clothing,Accessories,Adidas,120.56,285.7,664,4.62,9x46x6cm,2024-11-25
+201,H&M Shoes Collection,Clothing,Shoes,H&M,44.87,88.66,201,0.27,19x46x35cm,2022-07-19
+202,GAP Classic Accessories,Clothing,Accessories,GAP,35.79,68.32,693,9.66,34x25x40cm,2022-08-18
+203,GAP Sports Womens Wear,Clothing,Womens Wear,GAP,87.15,216.26,243,4.59,15x35x44cm,2022-12-27
+204,Adidas Accessories Collection,Clothing,Accessories,Adidas,54.54,94.5,280,3.29,17x30x15cm,2023-11-22
+205,Nike Accessories Collection,Clothing,Accessories,Nike,96.19,161.62,806,6.15,36x45x19cm,2021-06-17
+206,Nike Sports Mens Wear,Clothing,Mens Wear,Nike,57.13,134.94,611,6.86,7x37x31cm,2021-03-30
+207,Zara Sports Accessories,Clothing,Accessories,Zara,134.07,256.85,4,7.18,13x49x32cm,2021-09-28
+208,Levis Accessories Collection,Clothing,Accessories,Levis,124.85,205.12,102,9.26,41x43x24cm,2025-02-28
+209,Adidas Womens Wear Collection,Clothing,Womens Wear,Adidas,131.83,264.7,155,9.38,10x16x23cm,2025-04-29
+210,GAP Premium Kids Wear,Clothing,Kids Wear,GAP,74.35,127.53,959,7.87,19x47x14cm,2021-04-03
+211,Adidas Premium Mens Wear,Clothing,Mens Wear,Adidas,96.36,200.22,541,6.77,41x7x44cm,2025-06-16
+212,H&M Classic Accessories,Clothing,Accessories,H&M,100.6,215.26,394,8.76,12x16x19cm,2023-12-21
+213,Uniqlo Kids Wear Collection,Clothing,Kids Wear,Uniqlo,119.52,229.81,198,2.92,28x10x8cm,2023-04-13
+214,Nike Premium Kids Wear,Clothing,Kids Wear,Nike,59.03,111.94,389,3.79,42x15x33cm,2025-01-18
+215,Adidas Shoes Collection,Clothing,Shoes,Adidas,78.49,126.33,13,5.15,16x27x25cm,2021-04-10
+216,Nike Sports Womens Wear,Clothing,Womens Wear,Nike,61.44,107.0,425,4.38,7x25x12cm,2022-03-21
+217,Uniqlo Premium Womens Wear,Clothing,Womens Wear,Uniqlo,66.46,122.78,101,6.16,49x8x24cm,2020-08-25
+218,Zara Sports Shoes,Clothing,Shoes,Zara,54.9,118.21,166,5.57,40x22x35cm,2021-02-15
+219,Uniqlo Sports Kids Wear,Clothing,Kids Wear,Uniqlo,94.23,173.14,647,2.49,5x17x28cm,2020-08-20
+220,Levis Sports Accessories,Clothing,Accessories,Levis,143.17,254.04,779,9.62,48x20x10cm,2022-04-12
+221,Zara Classic Kids Wear,Clothing,Kids Wear,Zara,114.89,267.55,168,3.23,14x21x46cm,2022-06-21
+222,Uniqlo Sports Shoes,Clothing,Shoes,Uniqlo,74.25,127.14,742,4.01,43x46x34cm,2025-04-10
+223,GAP Classic Shoes,Clothing,Shoes,GAP,109.61,167.48,598,4.96,45x34x43cm,2025-06-21
+224,Zara Mens Wear Collection,Clothing,Mens Wear,Zara,43.79,63.55,132,7.28,46x12x13cm,2022-07-22
+225,GAP Kids Wear Collection,Clothing,Kids Wear,GAP,74.71,163.14,972,7.66,36x46x19cm,2021-11-12
+226,GAP Premium Mens Wear,Clothing,Mens Wear,GAP,153.2,226.64,789,9.97,6x36x42cm,2020-12-19
+227,GAP Premium Mens Wear,Clothing,Mens Wear,GAP,30.76,65.94,408,9.82,41x45x11cm,2024-01-28
+228,GAP Classic Mens Wear,Clothing,Mens Wear,GAP,98.38,161.39,62,0.17,25x10x5cm,2021-01-07
+229,Zara Womens Wear Collection,Clothing,Womens Wear,Zara,79.93,150.57,694,0.53,21x47x40cm,2025-02-18
+230,Zara Premium Accessories,Clothing,Accessories,Zara,84.75,142.28,419,3.89,49x23x25cm,2024-09-04
+231,Nike Premium Womens Wear,Clothing,Womens Wear,Nike,81.93,132.84,479,2.41,39x20x46cm,2023-06-20
+232,Nike Premium Kids Wear,Clothing,Kids Wear,Nike,131.87,188.49,458,4.77,28x42x28cm,2022-02-11
+233,Nike Mens Wear Collection,Clothing,Mens Wear,Nike,35.21,85.0,581,3.6,20x49x32cm,2022-07-01
+234,Adidas Premium Mens Wear,Clothing,Mens Wear,Adidas,99.41,208.64,596,8.17,7x16x44cm,2022-07-24
+235,Nike Mens Wear Collection,Clothing,Mens Wear,Nike,132.75,201.46,419,2.79,6x21x34cm,2021-08-16
+236,Zara Sports Womens Wear,Clothing,Womens Wear,Zara,150.64,287.06,53,8.29,22x8x31cm,2023-03-29
+237,Uniqlo Sports Mens Wear,Clothing,Mens Wear,Uniqlo,36.28,66.82,920,5.03,48x16x20cm,2021-01-01
+238,Levis Sports Accessories,Clothing,Accessories,Levis,45.49,111.19,862,5.74,44x31x25cm,2024-12-28
+239,Adidas Classic Womens Wear,Clothing,Womens Wear,Adidas,41.01,67.69,42,2.23,39x47x7cm,2021-10-06
+240,Adidas Womens Wear Collection,Clothing,Womens Wear,Adidas,156.15,263.33,682,5.27,38x6x6cm,2025-07-14
+241,Uniqlo Premium Womens Wear,Clothing,Womens Wear,Uniqlo,91.29,151.12,746,3.18,18x21x19cm,2021-02-03
+242,Zara Classic Shoes,Clothing,Shoes,Zara,136.01,247.66,161,3.48,38x44x11cm,2021-04-14
+243,H&M Classic Mens Wear,Clothing,Mens Wear,H&M,83.06,195.36,273,0.94,15x47x24cm,2025-07-13
+244,Uniqlo Sports Kids Wear,Clothing,Kids Wear,Uniqlo,73.56,123.42,753,3.23,46x32x39cm,2024-12-11
+245,GAP Kids Wear Collection,Clothing,Kids Wear,GAP,25.9,62.04,606,6.7,5x18x29cm,2021-08-03
+246,H&M Premium Shoes,Clothing,Shoes,H&M,35.33,61.65,437,6.12,46x34x16cm,2023-01-11
+247,Adidas Classic Womens Wear,Clothing,Womens Wear,Adidas,73.68,160.64,14,3.35,48x38x40cm,2024-01-25
+248,Nike Premium Kids Wear,Clothing,Kids Wear,Nike,133.84,279.58,837,4.14,36x20x15cm,2023-12-03
+249,Adidas Sports Shoes,Clothing,Shoes,Adidas,50.05,85.13,187,7.38,9x42x29cm,2023-05-24
+250,Adidas Shoes Collection,Clothing,Shoes,Adidas,82.91,161.55,595,0.62,33x49x31cm,2023-02-16
+251,Levis Premium Mens Wear,Clothing,Mens Wear,Levis,45.19,71.35,297,8.35,22x6x27cm,2025-01-29
+252,Levis Premium Kids Wear,Clothing,Kids Wear,Levis,162.25,241.18,502,8.37,46x16x17cm,2021-05-14
+253,Zara Classic Mens Wear,Clothing,Mens Wear,Zara,45.76,71.23,242,2.01,14x27x19cm,2024-10-08
+254,Uniqlo Premium Accessories,Clothing,Accessories,Uniqlo,60.86,87.98,958,5.24,45x36x42cm,2023-10-13
+255,Nike Accessories Collection,Clothing,Accessories,Nike,74.59,119.1,465,5.32,46x5x23cm,2025-07-16
+256,Zara Womens Wear Collection,Clothing,Womens Wear,Zara,160.83,270.48,393,9.71,43x23x46cm,2022-06-29
+257,GAP Premium Shoes,Clothing,Shoes,GAP,55.8,108.03,22,7.07,30x47x22cm,2025-01-22
+258,GAP Classic Shoes,Clothing,Shoes,GAP,94.01,184.76,648,5.53,21x16x40cm,2023-05-17
+259,Levis Classic Shoes,Clothing,Shoes,Levis,62.44,145.72,541,1.56,14x43x32cm,2021-06-28
+260,Nike Sports Womens Wear,Clothing,Womens Wear,Nike,93.14,161.87,576,8.3,40x13x49cm,2024-03-29
+261,H&M Shoes Collection,Clothing,Shoes,H&M,52.38,115.82,647,0.8,10x33x41cm,2022-02-15
+262,Nike Sports Shoes,Clothing,Shoes,Nike,105.09,201.32,53,0.72,36x39x18cm,2025-01-06
+263,GAP Classic Mens Wear,Clothing,Mens Wear,GAP,30.51,47.93,727,1.29,12x48x25cm,2023-11-15
+264,Adidas Sports Shoes,Clothing,Shoes,Adidas,28.18,49.88,510,2.89,36x47x42cm,2021-08-07
+265,IKEA Basic Garden Tools,Home & Garden,Garden Tools,IKEA,126.24,218.5,356,2.1,13x6x7cm,2023-06-09
+266,Target Basic Kitchen,Home & Garden,Kitchen,Target,828.28,1279.42,539,3.83,27x17x20cm,2021-07-13
+267,Walmart Furniture,Home & Garden,Furniture,Walmart,693.64,1424.0,57,7.02,29x6x29cm,2021-05-24
+268,Wayfair Furniture,Home & Garden,Furniture,Wayfair,49.05,75.69,393,1.1,29x42x41cm,2021-11-02
+269,Home Depot Basic Kitchen,Home & Garden,Kitchen,Home Depot,344.36,583.66,346,7.2,43x25x23cm,2022-01-14
+270,Wayfair Deluxe Garden Tools,Home & Garden,Garden Tools,Wayfair,580.31,852.32,923,1.0,19x20x37cm,2023-08-10
+271,Wayfair Deluxe Garden Tools,Home & Garden,Garden Tools,Wayfair,647.78,1122.08,898,2.81,6x27x30cm,2021-06-30
+272,West Elm Kitchen,Home & Garden,Kitchen,West Elm,337.67,528.47,95,0.18,26x21x24cm,2020-12-09
+273,Wayfair Garden Tools,Home & Garden,Garden Tools,Wayfair,516.23,887.06,598,9.36,32x17x33cm,2023-06-05
+274,Wayfair Professional Decor,Home & Garden,Decor,Wayfair,348.34,687.4,856,2.71,49x39x33cm,2023-10-27
+275,Target Decor,Home & Garden,Decor,Target,857.3,1430.33,858,0.49,36x36x30cm,2025-04-16
+276,Walmart Deluxe Bedding,Home & Garden,Bedding,Walmart,344.45,689.67,399,2.05,39x15x46cm,2023-06-15
+277,IKEA Kitchen,Home & Garden,Kitchen,IKEA,441.67,651.98,793,2.75,28x7x42cm,2024-12-20
+278,Wayfair Professional Kitchen,Home & Garden,Kitchen,Wayfair,219.87,489.54,990,4.83,28x13x47cm,2024-10-14
+279,Target Basic Kitchen,Home & Garden,Kitchen,Target,418.04,946.34,917,0.45,38x27x48cm,2025-04-13
+280,IKEA Basic Kitchen,Home & Garden,Kitchen,IKEA,676.97,1156.64,206,9.4,45x25x11cm,2022-08-30
+281,Target Deluxe Garden Tools,Home & Garden,Garden Tools,Target,601.3,1079.01,782,4.77,48x39x43cm,2022-07-15
+282,Target Professional Bedding,Home & Garden,Bedding,Target,580.49,921.62,614,4.54,14x6x48cm,2023-09-07
+283,West Elm Basic Garden Tools,Home & Garden,Garden Tools,West Elm,233.38,374.51,338,9.71,7x10x36cm,2021-12-30
+284,Target Basic Kitchen,Home & Garden,Kitchen,Target,160.01,269.03,588,5.0,18x15x18cm,2025-02-06
+285,West Elm Kitchen,Home & Garden,Kitchen,West Elm,376.4,548.5,120,6.29,32x22x30cm,2020-09-09
+286,Home Depot Basic Decor,Home & Garden,Decor,Home Depot,444.58,938.3,992,4.77,43x25x32cm,2022-11-30
+287,Home Depot Deluxe Garden Tools,Home & Garden,Garden Tools,Home Depot,611.2,1000.26,142,5.66,47x10x37cm,2023-10-29
+288,West Elm Basic Garden Tools,Home & Garden,Garden Tools,West Elm,559.28,1004.14,801,9.33,15x18x7cm,2023-10-03
+289,IKEA Deluxe Furniture,Home & Garden,Furniture,IKEA,812.34,1467.42,253,9.69,20x42x8cm,2024-07-19
+290,West Elm Deluxe Garden Tools,Home & Garden,Garden Tools,West Elm,355.93,596.1,492,4.74,10x37x12cm,2023-09-04
+291,Target Kitchen,Home & Garden,Kitchen,Target,703.62,1206.38,46,3.32,11x16x34cm,2021-12-07
+292,West Elm Professional Furniture,Home & Garden,Furniture,West Elm,695.49,1276.0,853,2.47,31x12x10cm,2021-08-10
+293,Target Deluxe Bedding,Home & Garden,Bedding,Target,493.19,891.96,582,1.93,8x36x23cm,2024-08-21
+294,IKEA Basic Decor,Home & Garden,Decor,IKEA,75.72,159.3,247,1.46,45x12x36cm,2022-06-03
+295,IKEA Basic Garden Tools,Home & Garden,Garden Tools,IKEA,397.34,749.12,316,4.75,29x46x44cm,2025-03-07
+296,West Elm Deluxe Decor,Home & Garden,Decor,West Elm,680.88,1018.65,559,9.25,35x48x15cm,2022-11-28
+297,Target Basic Furniture,Home & Garden,Furniture,Target,178.82,375.47,748,3.6,24x11x37cm,2021-09-02
+298,Wayfair Furniture,Home & Garden,Furniture,Wayfair,407.94,866.12,132,8.23,39x24x41cm,2022-09-21
+299,IKEA Basic Garden Tools,Home & Garden,Garden Tools,IKEA,415.07,700.13,60,6.23,24x33x8cm,2021-08-30
+300,West Elm Furniture,Home & Garden,Furniture,West Elm,511.33,1237.02,548,6.86,32x23x21cm,2025-07-26
+301,Home Depot Deluxe Kitchen,Home & Garden,Kitchen,Home Depot,654.59,1206.79,328,2.39,46x33x6cm,2024-05-13
+302,IKEA Deluxe Garden Tools,Home & Garden,Garden Tools,IKEA,36.18,82.03,91,3.59,43x34x39cm,2023-10-26
+303,West Elm Deluxe Bedding,Home & Garden,Bedding,West Elm,715.11,1102.53,467,0.16,28x47x22cm,2022-01-08
+304,IKEA Bedding,Home & Garden,Bedding,IKEA,517.22,1088.22,605,2.98,35x39x7cm,2021-02-04
+305,Target Basic Decor,Home & Garden,Decor,Target,176.35,275.49,279,7.91,11x15x15cm,2024-04-24
+306,West Elm Garden Tools,Home & Garden,Garden Tools,West Elm,768.05,1217.11,343,0.71,43x41x37cm,2024-08-17
+307,Walmart Basic Garden Tools,Home & Garden,Garden Tools,Walmart,48.78,99.98,20,7.24,31x42x39cm,2025-04-14
+308,Walmart Basic Garden Tools,Home & Garden,Garden Tools,Walmart,620.78,1399.53,410,7.36,25x42x42cm,2024-11-09
+309,West Elm Bedding,Home & Garden,Bedding,West Elm,872.61,1495.82,678,3.73,49x31x19cm,2020-11-03
+310,Walmart Professional Garden Tools,Home & Garden,Garden Tools,Walmart,259.31,459.29,851,0.49,22x34x34cm,2021-08-02
+311,Home Depot Deluxe Furniture,Home & Garden,Furniture,Home Depot,159.51,279.37,162,8.34,11x11x31cm,2025-01-29
+312,IKEA Basic Kitchen,Home & Garden,Kitchen,IKEA,747.59,1445.4,5,0.14,17x6x23cm,2021-05-25
+313,Target Basic Bedding,Home & Garden,Bedding,Target,540.26,1055.45,485,9.76,30x10x24cm,2024-10-19
+314,Wayfair Garden Tools,Home & Garden,Garden Tools,Wayfair,218.65,476.37,945,0.11,28x25x40cm,2025-02-22
+315,Home Depot Professional Decor,Home & Garden,Decor,Home Depot,103.52,198.53,589,5.38,6x29x35cm,2025-03-16
+316,Home Depot Deluxe Kitchen,Home & Garden,Kitchen,Home Depot,149.71,333.54,236,3.88,39x26x43cm,2025-08-15
+317,Walmart Professional Furniture,Home & Garden,Furniture,Walmart,621.56,936.85,991,8.34,17x21x16cm,2023-10-16
+318,Wayfair Deluxe Bedding,Home & Garden,Bedding,Wayfair,18.5,27.96,317,6.18,48x32x48cm,2022-04-29
+319,Walmart Basic Furniture,Home & Garden,Furniture,Walmart,802.81,1386.76,13,5.66,46x43x15cm,2020-12-19
+320,Target Basic Kitchen,Home & Garden,Kitchen,Target,393.56,611.87,396,7.31,19x37x20cm,2020-10-10
+321,Target Bedding,Home & Garden,Bedding,Target,178.96,343.32,42,5.61,14x21x34cm,2025-02-16
+322,Walmart Decor,Home & Garden,Decor,Walmart,227.25,485.97,777,7.43,34x23x43cm,2021-04-10
+323,West Elm Professional Decor,Home & Garden,Decor,West Elm,851.26,1234.33,766,4.56,42x18x43cm,2023-03-18
+324,Wayfair Professional Kitchen,Home & Garden,Kitchen,Wayfair,147.62,317.16,473,8.12,5x19x8cm,2024-01-26
+325,West Elm Deluxe Garden Tools,Home & Garden,Garden Tools,West Elm,589.53,987.44,828,1.85,43x43x21cm,2022-05-22
+326,Wayfair Garden Tools,Home & Garden,Garden Tools,Wayfair,356.43,650.75,258,8.45,37x46x6cm,2024-01-11
+327,West Elm Basic Bedding,Home & Garden,Bedding,West Elm,491.08,1125.52,297,7.52,10x16x34cm,2023-10-26
+328,Walmart Garden Tools,Home & Garden,Garden Tools,Walmart,399.95,743.0,851,2.4,44x44x34cm,2023-06-30
+329,Walmart Professional Kitchen,Home & Garden,Kitchen,Walmart,576.85,1219.43,527,2.08,35x41x24cm,2025-05-14
+330,IKEA Kitchen,Home & Garden,Kitchen,IKEA,109.32,214.18,972,5.52,19x30x48cm,2023-10-21
+331,Home Depot Basic Garden Tools,Home & Garden,Garden Tools,Home Depot,191.41,460.67,277,7.98,15x42x37cm,2020-11-30
+332,Walmart Decor,Home & Garden,Decor,Walmart,646.3,1171.3,315,5.72,27x29x22cm,2024-08-01
+333,Wayfair Professional Garden Tools,Home & Garden,Garden Tools,Wayfair,468.04,1055.3,700,0.14,47x9x38cm,2021-11-13
+334,IKEA Basic Furniture,Home & Garden,Furniture,IKEA,569.69,1184.6,137,1.98,27x20x41cm,2023-03-13
+335,Walmart Deluxe Garden Tools,Home & Garden,Garden Tools,Walmart,512.4,1130.26,306,2.08,25x39x42cm,2023-12-08
+336,IKEA Deluxe Decor,Home & Garden,Decor,IKEA,601.42,1038.88,72,4.45,13x39x5cm,2024-03-02
+337,Walmart Basic Kitchen,Home & Garden,Kitchen,Walmart,164.13,291.94,51,1.64,21x17x10cm,2022-06-15
+338,Target Basic Kitchen,Home & Garden,Kitchen,Target,231.63,361.02,80,0.52,14x37x34cm,2022-10-02
+339,Home Depot Basic Decor,Home & Garden,Decor,Home Depot,97.68,231.17,220,7.3,40x38x41cm,2025-01-30
+340,IKEA Professional Kitchen,Home & Garden,Kitchen,IKEA,161.96,325.63,505,1.24,18x22x38cm,2025-07-24
+341,Target Basic Furniture,Home & Garden,Furniture,Target,84.96,198.77,177,2.5,32x26x10cm,2022-05-11
+342,Home Depot Professional Furniture,Home & Garden,Furniture,Home Depot,150.03,239.28,162,6.26,6x11x36cm,2024-04-16
+343,Wayfair Basic Furniture,Home & Garden,Furniture,Wayfair,296.83,516.29,385,8.8,25x26x6cm,2022-10-03
+344,Wayfair Professional Furniture,Home & Garden,Furniture,Wayfair,87.68,188.17,971,7.07,27x38x36cm,2022-08-10
+345,Home Depot Professional Bedding,Home & Garden,Bedding,Home Depot,495.31,1015.86,898,8.84,16x30x48cm,2022-08-17
+346,Wayfair Decor,Home & Garden,Decor,Wayfair,124.21,264.84,168,1.5,23x36x32cm,2023-04-15
+347,Home Depot Deluxe Garden Tools,Home & Garden,Garden Tools,Home Depot,141.01,288.57,114,7.33,42x18x6cm,2022-11-27
+348,Target Basic Furniture,Home & Garden,Furniture,Target,718.3,1485.14,70,5.51,21x30x31cm,2022-06-06
+349,West Elm Deluxe Bedding,Home & Garden,Bedding,West Elm,383.74,735.34,914,7.5,23x28x28cm,2025-05-24
+350,Home Depot Deluxe Furniture,Home & Garden,Furniture,Home Depot,398.7,732.32,943,1.16,20x20x40cm,2023-08-04
+351,Target Furniture,Home & Garden,Furniture,Target,19.32,34.59,990,1.08,12x14x5cm,2023-03-23
+352,IKEA Deluxe Decor,Home & Garden,Decor,IKEA,252.55,602.06,109,6.46,13x24x24cm,2022-04-20
+353,Wayfair Deluxe Bedding,Home & Garden,Bedding,Wayfair,718.13,1442.91,493,3.73,14x20x49cm,2025-05-29
+354,IKEA Basic Bedding,Home & Garden,Bedding,IKEA,103.71,225.08,833,8.91,33x7x5cm,2022-09-26
+355,Walmart Professional Garden Tools,Home & Garden,Garden Tools,Walmart,161.33,244.31,258,3.62,20x37x13cm,2025-05-05
+356,Walmart Basic Furniture,Home & Garden,Furniture,Walmart,561.83,1396.24,598,0.15,40x7x19cm,2022-11-18
+357,Home Depot Basic Furniture,Home & Garden,Furniture,Home Depot,534.38,961.5,684,2.48,36x11x43cm,2023-03-26
+358,West Elm Deluxe Kitchen,Home & Garden,Kitchen,West Elm,313.32,734.2,673,1.49,33x20x9cm,2025-05-14
+359,West Elm Deluxe Decor,Home & Garden,Decor,West Elm,691.16,1012.88,772,4.47,39x29x18cm,2021-11-30
+360,Walmart Basic Garden Tools,Home & Garden,Garden Tools,Walmart,472.92,904.25,289,6.98,14x19x21cm,2022-06-04
+361,Home Depot Basic Bedding,Home & Garden,Bedding,Home Depot,963.87,1434.23,248,6.47,21x24x29cm,2023-09-16
+362,Wayfair Deluxe Furniture,Home & Garden,Furniture,Wayfair,723.84,1423.84,207,6.06,36x26x47cm,2024-05-03
+363,Walmart Professional Decor,Home & Garden,Decor,Walmart,687.57,1078.07,380,2.15,31x9x41cm,2023-09-17
+364,Walmart Professional Kitchen,Home & Garden,Kitchen,Walmart,315.03,588.61,116,2.59,30x25x6cm,2024-03-08
+365,West Elm Basic Bedding,Home & Garden,Bedding,West Elm,567.8,970.4,4,9.43,8x28x13cm,2022-01-03
+366,IKEA Professional Bedding,Home & Garden,Bedding,IKEA,798.09,1176.85,131,0.63,5x39x14cm,2023-07-10
+367,Home Depot Basic Garden Tools,Home & Garden,Garden Tools,Home Depot,27.48,65.89,151,9.69,19x12x39cm,2023-03-31
+368,IKEA Kitchen,Home & Garden,Kitchen,IKEA,795.45,1283.33,388,2.73,11x11x31cm,2022-06-08
+369,Walmart Deluxe Furniture,Home & Garden,Furniture,Walmart,623.08,1311.19,43,2.37,13x9x43cm,2022-12-19
+370,West Elm Basic Furniture,Home & Garden,Furniture,West Elm,34.92,68.63,996,8.4,42x39x29cm,2020-11-28
+371,Target Basic Furniture,Home & Garden,Furniture,Target,313.5,772.9,331,7.4,37x27x16cm,2021-01-07
+372,Target Basic Bedding,Home & Garden,Bedding,Target,489.04,958.05,834,7.59,49x14x21cm,2020-09-05
+373,Target Professional Bedding,Home & Garden,Bedding,Target,369.55,649.28,41,6.13,22x17x46cm,2023-12-10
+374,Target Basic Kitchen,Home & Garden,Kitchen,Target,809.61,1484.84,623,7.04,48x34x24cm,2024-11-20
+375,Target Kitchen,Home & Garden,Kitchen,Target,147.65,274.28,604,4.67,41x27x20cm,2021-09-16
+376,Wayfair Professional Kitchen,Home & Garden,Kitchen,Wayfair,22.18,49.05,715,8.59,23x42x41cm,2023-03-23
+377,Walmart Deluxe Bedding,Home & Garden,Bedding,Walmart,123.47,179.59,43,0.56,31x34x11cm,2020-12-13
+378,Target Bedding,Home & Garden,Bedding,Target,272.0,440.96,229,8.37,37x36x29cm,2023-05-26
+379,West Elm Basic Garden Tools,Home & Garden,Garden Tools,West Elm,40.71,88.54,354,4.54,27x29x5cm,2021-05-26
+380,IKEA Kitchen,Home & Garden,Kitchen,IKEA,117.27,212.5,952,1.6,29x24x29cm,2022-02-28
+381,Target Basic Kitchen,Home & Garden,Kitchen,Target,725.64,1220.62,435,5.75,32x25x34cm,2023-07-19
+382,Wayfair Bedding,Home & Garden,Bedding,Wayfair,186.56,341.85,258,5.12,15x49x9cm,2024-12-04
+383,Home Depot Professional Kitchen,Home & Garden,Kitchen,Home Depot,981.96,1433.45,883,8.54,44x32x17cm,2021-04-17
+384,IKEA Basic Kitchen,Home & Garden,Kitchen,IKEA,33.92,51.13,997,0.72,30x36x43cm,2021-01-18
+385,IKEA Professional Bedding,Home & Garden,Bedding,IKEA,643.59,971.58,11,5.2,40x14x10cm,2024-08-20
+386,Wayfair Decor,Home & Garden,Decor,Wayfair,905.78,1459.24,381,6.06,49x19x11cm,2021-02-05
+387,Wayfair Basic Furniture,Home & Garden,Furniture,Wayfair,397.22,816.12,195,3.02,9x29x35cm,2024-02-01
+388,Home Depot Deluxe Bedding,Home & Garden,Bedding,Home Depot,72.9,165.27,59,1.95,43x41x43cm,2021-10-01
+389,West Elm Deluxe Decor,Home & Garden,Decor,West Elm,759.48,1281.78,74,6.18,5x37x7cm,2024-06-20
+390,IKEA Basic Kitchen,Home & Garden,Kitchen,IKEA,527.53,995.69,693,7.12,40x24x10cm,2023-05-31
+391,West Elm Furniture,Home & Garden,Furniture,West Elm,482.09,1052.75,490,3.61,32x11x32cm,2022-03-22
+392,West Elm Deluxe Furniture,Home & Garden,Furniture,West Elm,354.53,570.38,571,8.58,18x10x11cm,2022-12-29
+393,IKEA Basic Decor,Home & Garden,Decor,IKEA,317.94,621.78,812,1.29,20x40x38cm,2022-10-11
+394,Target Deluxe Decor,Home & Garden,Decor,Target,815.37,1249.73,527,1.79,23x44x10cm,2020-11-23
+395,Walmart Basic Garden Tools,Home & Garden,Garden Tools,Walmart,206.64,306.28,940,7.11,13x39x46cm,2020-08-24
+396,Target Garden Tools,Home & Garden,Garden Tools,Target,542.67,844.8,517,0.23,41x17x29cm,2024-10-09
+397,IKEA Bedding,Home & Garden,Bedding,IKEA,378.41,541.87,594,2.44,16x44x44cm,2025-06-18
+398,West Elm Professional Bedding,Home & Garden,Bedding,West Elm,192.96,353.27,589,4.72,25x40x26cm,2024-10-17
+399,Penguin Deluxe Educational,Books,Educational,Penguin,12.5,21.71,250,3.25,46x31x46cm,2025-06-21
+400,DC Professional Non-Fiction,Books,Non-Fiction,DC,10.2,18.63,720,4.64,18x14x49cm,2021-07-02
+401,Harper Fiction,Books,Fiction,Harper,19.06,28.71,991,8.15,18x9x9cm,2021-12-19
+402,Penguin Basic Magazines,Books,Magazines,Penguin,24.7,41.49,760,2.38,21x7x17cm,2021-04-16
+403,Scholastic Comics,Books,Comics,Scholastic,17.44,40.15,96,1.82,40x21x43cm,2023-10-22
+404,Scholastic Non-Fiction,Books,Non-Fiction,Scholastic,26.2,55.73,346,4.62,17x30x18cm,2022-05-05
+405,DC Basic Educational,Books,Educational,DC,13.74,24.24,878,2.14,16x22x33cm,2023-01-23
+406,DC Professional Non-Fiction,Books,Non-Fiction,DC,39.01,77.65,476,0.18,15x16x36cm,2021-12-24
+407,Penguin Deluxe Comics,Books,Comics,Penguin,22.78,34.9,976,2.35,26x11x14cm,2021-05-21
+408,Scholastic Magazines,Books,Magazines,Scholastic,14.93,26.58,461,7.03,26x27x36cm,2023-06-19
+409,Random House Non-Fiction,Books,Non-Fiction,Random House,36.33,79.88,530,0.71,36x33x25cm,2021-04-13
+410,Harper Deluxe Educational,Books,Educational,Harper,15.89,38.44,680,4.82,14x42x48cm,2025-08-17
+411,Random House Educational,Books,Educational,Random House,12.61,23.48,531,4.96,41x44x12cm,2024-03-24
+412,Random House Deluxe Fiction,Books,Fiction,Random House,10.71,21.42,415,5.31,46x27x34cm,2022-03-15
+413,Scholastic Deluxe Fiction,Books,Fiction,Scholastic,25.35,53.15,334,6.29,37x38x26cm,2023-01-15
+414,Harper Deluxe Magazines,Books,Magazines,Harper,36.3,54.33,562,0.66,49x34x15cm,2023-02-26
+415,Marvel Basic Non-Fiction,Books,Non-Fiction,Marvel,38.98,75.18,889,5.83,9x26x11cm,2024-01-25
+416,Marvel Professional Magazines,Books,Magazines,Marvel,11.06,26.93,147,2.19,13x32x15cm,2021-10-30
+417,Random House Professional Comics,Books,Comics,Random House,7.6,18.03,546,5.65,39x23x45cm,2023-12-15
+418,Harper Basic Fiction,Books,Fiction,Harper,6.96,13.42,380,1.43,12x46x30cm,2021-11-01
+419,Random House Professional Non-Fiction,Books,Non-Fiction,Random House,5.03,12.05,175,6.6,24x34x9cm,2024-11-17
+420,Penguin Professional Educational,Books,Educational,Penguin,21.09,36.03,165,7.6,23x43x27cm,2024-09-22
+421,Marvel Professional Fiction,Books,Fiction,Marvel,19.15,39.97,483,6.05,40x6x8cm,2022-12-15
+422,Penguin Comics,Books,Comics,Penguin,29.39,59.25,755,9.39,6x7x27cm,2025-05-09
+423,Marvel Basic Non-Fiction,Books,Non-Fiction,Marvel,13.49,28.99,928,3.65,40x8x27cm,2023-01-07
+424,Penguin Professional Fiction,Books,Fiction,Penguin,20.15,38.09,468,3.12,19x21x43cm,2022-09-22
+425,Marvel Basic Educational,Books,Educational,Marvel,18.62,41.65,264,1.91,44x28x28cm,2023-08-10
+426,Random House Professional Non-Fiction,Books,Non-Fiction,Random House,27.67,60.67,734,1.61,29x31x36cm,2020-08-20
+427,Marvel Professional Educational,Books,Educational,Marvel,24.43,59.6,110,6.02,39x15x15cm,2021-08-17
+428,Harper Basic Non-Fiction,Books,Non-Fiction,Harper,35.75,60.95,280,2.45,17x36x38cm,2022-02-12
+429,Marvel Deluxe Comics,Books,Comics,Marvel,5.84,10.3,635,8.78,12x46x17cm,2024-03-31
+430,DC Basic Magazines,Books,Magazines,DC,10.28,19.79,215,6.67,7x33x34cm,2021-07-02
+431,Marvel Deluxe Fiction,Books,Fiction,Marvel,31.21,46.81,181,8.98,29x28x6cm,2021-03-02
+432,Random House Educational,Books,Educational,Random House,20.18,29.1,566,8.88,43x25x30cm,2021-05-18
+433,Random House Basic Educational,Books,Educational,Random House,32.24,53.74,231,7.04,47x24x26cm,2020-10-05
+434,Marvel Deluxe Comics,Books,Comics,Marvel,22.41,48.66,471,8.83,16x23x41cm,2025-04-21
+435,Random House Professional Non-Fiction,Books,Non-Fiction,Random House,30.67,69.45,171,8.06,25x14x34cm,2024-04-21
+436,Marvel Comics,Books,Comics,Marvel,38.12,72.24,412,6.88,9x15x8cm,2025-01-23
+437,Harper Basic Fiction,Books,Fiction,Harper,49.54,70.84,907,7.54,18x25x31cm,2020-11-16
+438,Penguin Deluxe Comics,Books,Comics,Penguin,47.84,78.49,243,8.7,18x13x23cm,2024-03-08
+439,Scholastic Deluxe Non-Fiction,Books,Non-Fiction,Scholastic,27.0,52.52,538,4.89,35x45x10cm,2024-07-13
+440,Scholastic Basic Comics,Books,Comics,Scholastic,26.53,39.39,352,2.47,17x25x41cm,2022-06-18
+441,Scholastic Deluxe Magazines,Books,Magazines,Scholastic,19.57,34.7,367,4.39,41x28x29cm,2022-02-24
+442,Penguin Basic Educational,Books,Educational,Penguin,20.46,44.47,305,1.46,19x49x22cm,2025-02-14
+443,Marvel Deluxe Comics,Books,Comics,Marvel,8.81,17.83,274,2.01,33x38x23cm,2021-03-09
+444,Harper Professional Non-Fiction,Books,Non-Fiction,Harper,8.79,16.68,453,8.6,35x45x44cm,2022-05-01
+445,Penguin Basic Magazines,Books,Magazines,Penguin,6.98,10.06,22,1.9,29x11x22cm,2023-12-12
+446,Scholastic Basic Magazines,Books,Magazines,Scholastic,38.43,66.74,544,4.38,5x25x12cm,2025-05-31
+447,Harper Fiction,Books,Fiction,Harper,9.84,14.41,413,8.97,6x12x42cm,2022-04-17
+448,Marvel Professional Comics,Books,Comics,Marvel,13.03,31.33,540,5.45,28x20x16cm,2020-11-29
+449,DC Basic Non-Fiction,Books,Non-Fiction,DC,34.86,56.21,908,9.09,42x35x21cm,2023-11-12
+450,Penguin Deluxe Fiction,Books,Fiction,Penguin,43.67,71.56,165,6.74,33x49x43cm,2020-08-30
+451,DC Deluxe Magazines,Books,Magazines,DC,30.72,57.75,403,9.67,49x8x39cm,2022-07-01
+452,Penguin Deluxe Comics,Books,Comics,Penguin,33.9,74.73,247,5.72,10x46x40cm,2024-04-29
+453,DC Fiction,Books,Fiction,DC,9.83,15.39,523,1.17,5x19x31cm,2023-01-30
+454,Penguin Basic Magazines,Books,Magazines,Penguin,12.77,22.42,923,9.15,35x35x37cm,2025-05-14
+455,Random House Deluxe Fiction,Books,Fiction,Random House,31.06,49.25,396,1.47,23x40x32cm,2022-07-14
+456,Random House Comics,Books,Comics,Random House,51.22,79.31,856,2.01,33x45x33cm,2024-02-24
+457,Random House Comics,Books,Comics,Random House,30.85,48.52,760,5.24,40x14x22cm,2024-02-17
+458,Random House Basic Fiction,Books,Fiction,Random House,19.18,32.83,309,0.34,25x42x47cm,2025-03-26
+459,Random House Deluxe Fiction,Books,Fiction,Random House,37.02,56.99,724,4.06,31x31x17cm,2023-08-16
+460,Marvel Professional Non-Fiction,Books,Non-Fiction,Marvel,40.78,64.18,164,2.32,26x40x34cm,2024-01-20
+461,Penguin Deluxe Comics,Books,Comics,Penguin,10.66,17.33,863,0.24,16x17x38cm,2021-12-09
+462,Random House Professional Comics,Books,Comics,Random House,26.13,51.49,70,7.79,6x37x11cm,2021-10-17
+463,Random House Professional Non-Fiction,Books,Non-Fiction,Random House,14.02,33.43,698,2.19,13x32x8cm,2020-12-29
+464,Random House Deluxe Fiction,Books,Fiction,Random House,27.56,42.44,241,8.64,30x16x36cm,2024-11-24
+465,Random House Professional Fiction,Books,Fiction,Random House,16.41,31.4,32,4.31,35x33x9cm,2022-01-01
+466,Random House Magazines,Books,Magazines,Random House,21.58,49.29,289,0.99,12x6x25cm,2020-11-30
+467,DC Magazines,Books,Magazines,DC,34.3,54.04,746,0.7,39x13x39cm,2025-05-17
+468,Random House Deluxe Educational,Books,Educational,Random House,8.01,13.0,201,1.46,10x6x42cm,2023-07-30
+469,Random House Basic Fiction,Books,Fiction,Random House,24.74,38.28,556,8.3,8x21x9cm,2023-08-10
+470,Penguin Magazines,Books,Magazines,Penguin,19.4,36.03,500,9.05,46x11x11cm,2024-06-30
+471,Random House Deluxe Educational,Books,Educational,Random House,31.28,48.61,51,1.79,10x14x49cm,2025-07-04
+472,Harper Professional Fiction,Books,Fiction,Harper,27.99,45.28,213,7.42,38x11x21cm,2023-01-28
+473,Marvel Educational,Books,Educational,Marvel,9.27,17.65,503,4.01,29x25x16cm,2024-04-11
+474,Harper Deluxe Educational,Books,Educational,Harper,33.03,65.83,877,7.82,49x33x28cm,2024-12-04
+475,DC Deluxe Educational,Books,Educational,DC,11.13,26.15,83,6.82,16x39x42cm,2025-06-29
+476,Random House Basic Fiction,Books,Fiction,Random House,39.14,79.98,38,2.11,6x33x49cm,2025-06-06
+477,Random House Professional Fiction,Books,Fiction,Random House,32.76,75.16,380,7.54,29x47x48cm,2024-03-22
+478,Penguin Professional Educational,Books,Educational,Penguin,19.16,28.74,172,3.44,30x10x7cm,2020-08-24
+479,Random House Professional Comics,Books,Comics,Random House,32.82,76.31,760,1.37,44x41x35cm,2022-10-19
+480,Penguin Deluxe Comics,Books,Comics,Penguin,8.63,17.36,908,1.23,15x29x35cm,2023-08-28
+481,DC Deluxe Non-Fiction,Books,Non-Fiction,DC,40.88,68.79,611,6.39,48x45x7cm,2024-03-07
+482,Harper Professional Comics,Books,Comics,Harper,15.71,25.34,138,6.52,16x42x7cm,2024-05-13
+483,Harper Deluxe Non-Fiction,Books,Non-Fiction,Harper,22.93,36.48,927,7.78,41x22x5cm,2022-03-21
+484,Marvel Basic Magazines,Books,Magazines,Marvel,13.79,25.67,539,0.5,5x35x46cm,2022-03-22
+485,DC Deluxe Non-Fiction,Books,Non-Fiction,DC,21.6,36.22,478,9.86,48x31x28cm,2021-11-05
+486,Random House Deluxe Comics,Books,Comics,Random House,16.12,31.51,122,6.22,6x8x31cm,2023-03-16
+487,Penguin Comics,Books,Comics,Penguin,52.05,78.87,896,0.22,9x16x42cm,2024-11-08
+488,Penguin Basic Fiction,Books,Fiction,Penguin,34.78,59.47,223,6.9,35x23x33cm,2024-11-25
+489,Harper Magazines,Books,Magazines,Harper,10.26,16.61,276,9.41,38x15x24cm,2023-09-06
+490,Marvel Professional Fiction,Books,Fiction,Marvel,24.9,61.79,830,0.94,5x22x26cm,2022-03-08
+491,DC Professional Fiction,Books,Fiction,DC,38.56,57.16,883,1.52,39x27x49cm,2023-02-16
+492,Scholastic Basic Magazines,Books,Magazines,Scholastic,18.56,41.5,363,6.04,44x10x25cm,2024-12-31
+493,Random House Deluxe Comics,Books,Comics,Random House,15.43,25.78,458,3.36,32x24x48cm,2020-09-07
+494,Scholastic Comics,Books,Comics,Scholastic,37.18,77.54,495,8.12,22x13x8cm,2021-01-31
+495,Penguin Basic Fiction,Books,Fiction,Penguin,12.27,19.55,767,8.45,42x13x20cm,2021-09-03
+496,Harper Comics,Books,Comics,Harper,14.34,20.72,202,2.69,34x21x40cm,2021-03-31
+497,Random House Deluxe Educational,Books,Educational,Random House,47.6,79.63,411,5.42,6x33x22cm,2023-07-13
+498,Marvel Magazines,Books,Magazines,Marvel,8.19,18.87,651,8.83,36x22x17cm,2021-09-07
+499,DC Basic Comics,Books,Comics,DC,30.79,46.18,241,4.05,38x32x12cm,2025-05-21
+500,Marvel Deluxe Educational,Books,Educational,Marvel,31.99,61.33,392,2.23,24x18x33cm,2020-10-04
+501,Marvel Deluxe Fiction,Books,Fiction,Marvel,14.63,26.6,814,9.02,47x8x24cm,2022-02-06
+502,Harper Basic Educational,Books,Educational,Harper,31.22,60.21,283,4.08,34x37x37cm,2022-05-24
+503,Random House Deluxe Comics,Books,Comics,Random House,37.98,76.88,490,6.61,25x46x37cm,2024-01-12
+504,DC Educational,Books,Educational,DC,8.94,12.89,704,4.61,39x24x36cm,2023-12-13
+505,Random House Professional Comics,Books,Comics,Random House,35.42,72.61,141,3.22,34x37x38cm,2021-07-17
+506,Penguin Basic Comics,Books,Comics,Penguin,20.18,33.44,198,6.69,26x12x41cm,2023-04-21
+507,Random House Non-Fiction,Books,Non-Fiction,Random House,38.44,69.64,813,3.57,5x37x23cm,2022-11-16
+508,DC Deluxe Comics,Books,Comics,DC,31.02,51.32,87,9.06,20x20x24cm,2020-12-26
+509,Random House Professional Fiction,Books,Fiction,Random House,34.82,68.53,620,6.56,43x47x21cm,2021-02-03
+510,DC Magazines,Books,Magazines,DC,12.09,19.58,213,2.85,29x45x7cm,2024-10-17
+511,Marvel Basic Fiction,Books,Fiction,Marvel,9.63,19.47,804,8.5,21x25x40cm,2024-01-25
+512,Harper Deluxe Educational,Books,Educational,Harper,14.79,28.76,395,7.51,41x32x39cm,2021-01-31
+513,Marvel Basic Comics,Books,Comics,Marvel,40.74,65.56,331,0.99,48x39x16cm,2021-07-05
+514,Marvel Magazines,Books,Magazines,Marvel,19.09,33.19,365,6.46,9x28x11cm,2022-04-18
+515,Scholastic Professional Fiction,Books,Fiction,Scholastic,31.18,49.9,382,6.09,33x40x31cm,2021-08-17
+516,DC Non-Fiction,Books,Non-Fiction,DC,14.79,25.4,687,4.45,11x16x7cm,2021-11-23
+517,Penguin Fiction,Books,Fiction,Penguin,29.33,65.78,285,7.29,42x19x34cm,2023-02-28
+518,Random House Deluxe Non-Fiction,Books,Non-Fiction,Random House,28.56,48.56,89,5.23,35x18x44cm,2024-11-09
+519,Penguin Basic Non-Fiction,Books,Non-Fiction,Penguin,7.53,14.62,145,8.33,16x44x7cm,2024-07-05
+520,Penguin Non-Fiction,Books,Non-Fiction,Penguin,31.97,69.22,588,9.57,33x39x19cm,2023-10-20
+521,DC Magazines,Books,Magazines,DC,21.79,53.42,140,6.03,43x36x7cm,2022-06-08
+522,Scholastic Professional Non-Fiction,Books,Non-Fiction,Scholastic,5.12,12.52,256,5.45,14x21x34cm,2025-04-09
+523,Harper Professional Educational,Books,Educational,Harper,39.18,77.65,33,3.11,47x21x10cm,2022-06-19
+524,Marvel Basic Educational,Books,Educational,Marvel,33.72,63.39,646,8.0,25x5x34cm,2024-10-29
+525,Random House Basic Educational,Books,Educational,Random House,20.59,29.83,226,1.17,24x40x43cm,2023-06-23
+526,Random House Deluxe Fiction,Books,Fiction,Random House,35.99,59.45,236,8.54,11x37x49cm,2025-03-18
+527,Scholastic Basic Comics,Books,Comics,Scholastic,23.02,48.83,528,3.66,34x26x32cm,2021-12-12
+528,Penguin Professional Magazines,Books,Magazines,Penguin,6.79,13.16,710,2.73,45x35x7cm,2025-08-01
+529,Random House Basic Fiction,Books,Fiction,Random House,40.71,58.98,695,9.57,23x41x25cm,2024-10-07
+530,Marvel Non-Fiction,Books,Non-Fiction,Marvel,50.51,74.52,701,7.82,17x23x15cm,2024-03-05
+531,Penguin Basic Non-Fiction,Books,Non-Fiction,Penguin,10.63,23.7,388,2.27,34x43x40cm,2020-09-21
+532,Harper Basic Educational,Books,Educational,Harper,25.42,41.15,611,8.9,20x9x13cm,2021-11-28
+533,Harper Deluxe Non-Fiction,Books,Non-Fiction,Harper,42.62,62.85,592,9.95,25x23x7cm,2022-02-16
+534,Harper Magazines,Books,Magazines,Harper,13.67,21.8,279,0.68,40x19x45cm,2023-01-31
+535,Harper Deluxe Comics,Books,Comics,Harper,28.05,64.04,40,6.63,28x49x17cm,2020-11-10
+536,Harper Professional Fiction,Books,Fiction,Harper,22.11,33.24,900,1.93,10x21x35cm,2023-10-11
+537,Random House Basic Fiction,Books,Fiction,Random House,21.51,33.7,943,7.52,8x47x18cm,2025-02-13
+538,Marvel Basic Magazines,Books,Magazines,Marvel,36.45,68.09,500,8.07,43x25x45cm,2022-07-31
+539,Random House Professional Educational,Books,Educational,Random House,42.88,72.04,127,7.76,16x39x38cm,2022-01-22
+540,Harper Deluxe Comics,Books,Comics,Harper,30.7,71.83,403,9.68,46x24x12cm,2021-08-20
+541,Penguin Non-Fiction,Books,Non-Fiction,Penguin,7.14,15.62,331,9.78,12x14x15cm,2023-05-28
+542,DC Deluxe Non-Fiction,Books,Non-Fiction,DC,17.9,27.73,230,7.33,26x7x41cm,2022-03-16
+543,Harper Deluxe Non-Fiction,Books,Non-Fiction,Harper,25.29,44.2,447,0.8,47x45x40cm,2024-11-30
+544,DC Educational,Books,Educational,DC,8.79,18.82,985,1.5,5x12x37cm,2023-03-05
+545,Random House Basic Comics,Books,Comics,Random House,13.3,22.22,909,7.09,30x46x21cm,2023-05-21
+546,Scholastic Deluxe Fiction,Books,Fiction,Scholastic,19.53,31.9,732,8.81,16x5x5cm,2023-03-20
+547,DC Professional Magazines,Books,Magazines,DC,4.96,11.13,807,9.42,49x27x17cm,2023-08-17
+548,Penguin Educational,Books,Educational,Penguin,6.69,10.64,268,6.34,25x24x24cm,2024-02-01
+549,Penguin Basic Educational,Books,Educational,Penguin,15.63,27.01,927,7.85,41x23x40cm,2023-11-19
+550,Scholastic Non-Fiction,Books,Non-Fiction,Scholastic,19.55,47.68,701,0.68,26x45x44cm,2023-10-23
+551,Scholastic Professional Non-Fiction,Books,Non-Fiction,Scholastic,28.04,65.51,210,5.56,38x37x10cm,2021-06-05
+552,Random House Comics,Books,Comics,Random House,48.57,72.18,546,6.15,22x22x42cm,2021-09-26
+553,Random House Non-Fiction,Books,Non-Fiction,Random House,5.41,10.35,557,3.6,11x46x44cm,2020-09-13
+554,Marvel Deluxe Non-Fiction,Books,Non-Fiction,Marvel,41.88,61.4,953,4.16,30x19x42cm,2021-05-26
+555,Harper Professional Fiction,Books,Fiction,Harper,23.5,47.95,803,6.73,38x39x43cm,2024-03-05
+556,Random House Professional Comics,Books,Comics,Random House,30.02,44.37,572,1.2,30x39x19cm,2022-08-22
+557,Harper Professional Comics,Books,Comics,Harper,14.43,27.27,509,5.68,26x15x42cm,2022-06-08
+558,Random House Magazines,Books,Magazines,Random House,22.48,44.4,972,4.42,27x30x48cm,2022-08-17
+559,Penguin Professional Educational,Books,Educational,Penguin,6.3,13.26,774,5.99,37x43x7cm,2023-09-20
+560,Marvel Professional Fiction,Books,Fiction,Marvel,26.25,38.8,207,4.02,47x11x19cm,2025-01-14
+561,Random House Professional Non-Fiction,Books,Non-Fiction,Random House,6.61,12.37,237,1.23,40x32x42cm,2023-12-22
+562,Random House Deluxe Comics,Books,Comics,Random House,14.17,23.94,618,5.85,27x6x14cm,2022-03-28
+563,Marvel Professional Magazines,Books,Magazines,Marvel,27.89,58.39,531,1.43,11x28x30cm,2022-10-15
+564,Harper Non-Fiction,Books,Non-Fiction,Harper,41.12,69.57,458,7.05,25x44x42cm,2023-06-12
+565,Marvel Deluxe Magazines,Books,Magazines,Marvel,7.9,11.7,491,4.87,7x44x27cm,2024-12-21
+566,Random House Professional Comics,Books,Comics,Random House,13.7,28.96,853,6.48,42x22x32cm,2021-04-15
+567,Random House Professional Comics,Books,Comics,Random House,29.53,67.57,698,2.54,8x45x49cm,2021-10-24
+568,Harper Deluxe Magazines,Books,Magazines,Harper,33.93,77.58,22,3.96,41x38x33cm,2024-02-21
+569,DC Professional Magazines,Books,Magazines,DC,12.38,25.92,691,8.49,18x46x6cm,2025-08-10
+570,Marvel Educational,Books,Educational,Marvel,9.77,15.56,987,8.66,8x49x11cm,2021-08-20
+571,Marvel Educational,Books,Educational,Marvel,13.09,22.22,899,0.87,9x6x28cm,2024-07-11
+572,Random House Professional Non-Fiction,Books,Non-Fiction,Random House,13.73,26.11,657,1.72,8x37x18cm,2023-03-28
+573,Harper Comics,Books,Comics,Harper,31.97,79.04,259,6.22,7x29x8cm,2021-04-03
+574,Random House Deluxe Non-Fiction,Books,Non-Fiction,Random House,25.94,41.51,94,3.35,27x8x41cm,2020-09-23
+575,Marvel Professional Non-Fiction,Books,Non-Fiction,Marvel,30.48,74.77,41,7.76,23x24x36cm,2024-08-16
+576,Marvel Deluxe Comics,Books,Comics,Marvel,53.83,78.71,788,4.15,26x34x27cm,2023-01-23
+577,Marvel Magazines,Books,Magazines,Marvel,53.22,77.92,753,0.49,5x43x21cm,2023-10-15
+578,Harper Professional Educational,Books,Educational,Harper,10.77,25.76,437,8.45,12x10x32cm,2020-11-01
+579,Columbia Water Sports,Sports,Water Sports,Columbia,21.59,47.29,901,6.62,43x43x20cm,2020-12-10
+580,Under Armour Professional Outdoor,Sports,Outdoor,Under Armour,249.01,455.99,518,9.38,16x21x49cm,2023-07-17
+581,Columbia Basic Water Sports,Sports,Water Sports,Columbia,164.16,260.6,985,4.69,30x9x42cm,2021-04-08
+582,Columbia Outdoor,Sports,Outdoor,Columbia,249.71,399.36,204,0.78,29x46x20cm,2021-04-23
+583,North Face Winter Sports,Sports,Winter Sports,North Face,85.88,143.52,299,9.55,20x16x24cm,2020-11-28
+584,Columbia Basic Outdoor,Sports,Outdoor,Columbia,152.29,224.68,499,4.65,38x17x42cm,2023-03-16
+585,Patagonia Basic Water Sports,Sports,Water Sports,Patagonia,311.48,497.66,426,5.44,35x6x22cm,2024-12-01
+586,North Face Deluxe Outdoor,Sports,Outdoor,North Face,207.24,376.76,823,8.44,23x18x18cm,2021-10-24
+587,North Face Outdoor,Sports,Outdoor,North Face,317.93,490.16,356,8.98,8x11x15cm,2025-05-03
+588,Under Armour Basic Outdoor,Sports,Outdoor,Under Armour,77.8,131.55,732,4.18,47x13x23cm,2023-05-31
+589,Under Armour Professional Water Sports,Sports,Water Sports,Under Armour,147.09,306.11,556,8.84,21x48x37cm,2024-09-25
+590,Adidas Water Sports,Sports,Water Sports,Adidas,269.08,491.11,398,5.54,40x19x34cm,2020-11-07
+591,Nike Deluxe Outdoor,Sports,Outdoor,Nike,222.0,341.15,239,6.17,33x15x49cm,2022-12-07
+592,Nike Basic Outdoor,Sports,Outdoor,Nike,133.52,235.85,317,3.11,12x8x40cm,2023-01-06
+593,Nike Team Sports,Sports,Team Sports,Nike,197.21,475.63,803,9.03,18x11x16cm,2022-01-12
+594,Under Armour Winter Sports,Sports,Winter Sports,Under Armour,108.58,195.05,571,4.5,12x11x47cm,2021-03-01
+595,Adidas Basic Team Sports,Sports,Team Sports,Adidas,105.01,201.52,83,9.2,26x31x38cm,2024-07-10
+596,North Face Basic Winter Sports,Sports,Winter Sports,North Face,64.67,107.22,772,5.66,18x14x35cm,2020-11-17
+597,Columbia Basic Winter Sports,Sports,Winter Sports,Columbia,147.75,288.5,170,3.33,34x38x40cm,2025-04-12
+598,Patagonia Team Sports,Sports,Team Sports,Patagonia,117.7,178.44,686,7.99,32x34x31cm,2023-07-04
+599,Patagonia Basic Winter Sports,Sports,Winter Sports,Patagonia,259.59,492.96,654,7.21,42x36x44cm,2021-08-12
+600,Columbia Basic Winter Sports,Sports,Winter Sports,Columbia,228.85,408.6,900,8.73,20x45x22cm,2024-12-24
+601,Under Armour Winter Sports,Sports,Winter Sports,Under Armour,17.49,34.34,133,9.62,48x8x41cm,2022-10-21
+602,Under Armour Outdoor,Sports,Outdoor,Under Armour,75.72,110.34,203,7.36,6x6x40cm,2023-09-25
+603,Patagonia Deluxe Winter Sports,Sports,Winter Sports,Patagonia,322.66,488.02,883,1.48,20x47x48cm,2020-12-09
+604,Nike Professional Team Sports,Sports,Team Sports,Nike,13.21,23.55,646,8.5,18x48x19cm,2024-01-22
+605,North Face Water Sports,Sports,Water Sports,North Face,278.67,477.34,584,7.22,34x5x14cm,2021-02-01
+606,Columbia Professional Winter Sports,Sports,Winter Sports,Columbia,149.63,224.41,524,0.48,13x7x34cm,2023-10-24
+607,Patagonia Deluxe Fitness,Sports,Fitness,Patagonia,171.51,283.49,983,1.54,40x29x24cm,2022-08-16
+608,Columbia Deluxe Fitness,Sports,Fitness,Columbia,50.39,117.25,676,7.7,47x32x26cm,2020-10-01
+609,North Face Basic Team Sports,Sports,Team Sports,North Face,220.76,419.91,197,9.22,38x35x15cm,2021-01-23
+610,Columbia Deluxe Water Sports,Sports,Water Sports,Columbia,42.45,93.43,711,7.16,48x19x31cm,2021-02-28
+611,Nike Basic Winter Sports,Sports,Winter Sports,Nike,319.31,498.33,46,5.05,31x25x17cm,2022-05-09
+612,Under Armour Basic Fitness,Sports,Fitness,Under Armour,206.33,431.17,461,7.65,12x37x11cm,2020-11-30
+613,Nike Outdoor,Sports,Outdoor,Nike,123.41,190.08,83,1.69,47x45x18cm,2021-06-28
+614,Columbia Winter Sports,Sports,Winter Sports,Columbia,130.24,279.49,346,7.86,31x28x9cm,2023-04-13
+615,Columbia Professional Outdoor,Sports,Outdoor,Columbia,342.24,493.05,249,8.52,10x14x7cm,2023-05-17
+616,Adidas Basic Winter Sports,Sports,Winter Sports,Adidas,157.27,324.44,84,5.51,49x17x21cm,2022-03-16
+617,Nike Basic Fitness,Sports,Fitness,Nike,213.1,343.23,701,6.91,43x42x9cm,2021-10-07
+618,Adidas Professional Fitness,Sports,Fitness,Adidas,160.59,294.51,798,0.17,12x34x43cm,2023-02-26
+619,Adidas Basic Winter Sports,Sports,Winter Sports,Adidas,133.14,274.1,73,9.97,31x8x17cm,2023-02-20
+620,North Face Deluxe Fitness,Sports,Fitness,North Face,181.23,386.45,462,7.4,48x41x34cm,2021-04-25
+621,Adidas Basic Winter Sports,Sports,Winter Sports,Adidas,28.32,43.2,884,8.78,8x6x31cm,2023-04-12
+622,Nike Basic Fitness,Sports,Fitness,Nike,255.92,397.4,986,0.49,40x47x12cm,2022-02-08
+623,Adidas Basic Water Sports,Sports,Water Sports,Adidas,225.15,392.03,112,1.59,42x26x18cm,2023-06-28
+624,Adidas Water Sports,Sports,Water Sports,Adidas,290.05,436.28,424,7.06,21x23x40cm,2023-09-14
+625,Nike Deluxe Fitness,Sports,Fitness,Nike,262.96,407.24,720,6.0,35x16x6cm,2021-04-28
+626,Under Armour Basic Water Sports,Sports,Water Sports,Under Armour,136.17,290.15,57,5.75,40x5x39cm,2023-09-08
+627,Under Armour Deluxe Fitness,Sports,Fitness,Under Armour,178.22,270.02,515,5.73,33x15x17cm,2022-07-30
+628,North Face Deluxe Team Sports,Sports,Team Sports,North Face,35.62,53.24,341,9.05,24x25x21cm,2024-12-07
+629,Patagonia Deluxe Water Sports,Sports,Water Sports,Patagonia,183.13,276.25,52,7.75,30x23x45cm,2023-11-12
+630,Columbia Professional Fitness,Sports,Fitness,Columbia,80.51,149.14,802,9.39,17x37x19cm,2023-10-02
+631,Patagonia Basic Team Sports,Sports,Team Sports,Patagonia,208.29,390.78,774,1.79,20x12x26cm,2024-10-21
+632,Patagonia Outdoor,Sports,Outdoor,Patagonia,68.3,129.06,198,8.05,47x32x6cm,2021-05-29
+633,Columbia Fitness,Sports,Fitness,Columbia,168.8,317.28,969,5.69,48x27x37cm,2022-06-26
+634,North Face Fitness,Sports,Fitness,North Face,181.83,435.07,921,3.43,30x43x36cm,2024-03-04
+635,Adidas Water Sports,Sports,Water Sports,Adidas,101.03,151.8,460,2.89,49x13x41cm,2023-08-05
+636,Adidas Basic Fitness,Sports,Fitness,Adidas,79.98,195.22,670,3.26,41x29x12cm,2024-04-07
+637,Nike Outdoor,Sports,Outdoor,Nike,103.5,156.82,814,6.45,49x36x39cm,2024-05-14
+638,North Face Deluxe Outdoor,Sports,Outdoor,North Face,220.62,486.35,219,6.59,20x22x29cm,2023-12-10
+639,Nike Professional Outdoor,Sports,Outdoor,Nike,87.36,167.67,727,3.5,18x33x34cm,2024-01-17
+640,Patagonia Team Sports,Sports,Team Sports,Patagonia,169.63,331.48,651,3.92,28x5x22cm,2024-03-16
+641,Adidas Deluxe Winter Sports,Sports,Winter Sports,Adidas,205.44,363.85,158,4.4,34x35x38cm,2024-02-18
+642,Columbia Fitness,Sports,Fitness,Columbia,171.21,424.95,636,9.44,39x45x26cm,2020-11-04
+643,Under Armour Basic Water Sports,Sports,Water Sports,Under Armour,118.28,190.35,231,6.22,17x15x31cm,2020-12-07
+644,Patagonia Deluxe Water Sports,Sports,Water Sports,Patagonia,120.46,181.86,127,7.18,13x43x41cm,2023-09-15
+645,Adidas Basic Team Sports,Sports,Team Sports,Adidas,265.28,464.17,898,0.1,15x12x30cm,2023-03-27
+646,Adidas Winter Sports,Sports,Winter Sports,Adidas,163.64,311.08,843,4.35,15x14x7cm,2023-12-07
+647,Patagonia Deluxe Winter Sports,Sports,Winter Sports,Patagonia,156.73,230.66,268,4.46,42x47x40cm,2025-01-27
+648,Nike Deluxe Outdoor,Sports,Outdoor,Nike,32.22,72.55,964,4.85,38x8x38cm,2022-07-26
+649,Adidas Deluxe Team Sports,Sports,Team Sports,Adidas,319.62,485.34,657,9.78,5x24x10cm,2021-07-02
+650,Patagonia Water Sports,Sports,Water Sports,Patagonia,61.77,108.62,9,1.13,45x16x14cm,2025-03-15
+651,Under Armour Professional Winter Sports,Sports,Winter Sports,Under Armour,210.34,379.27,54,3.4,35x28x20cm,2023-03-14
+652,Columbia Professional Water Sports,Sports,Water Sports,Columbia,183.08,292.42,587,2.59,23x9x31cm,2023-12-07
+653,North Face Basic Fitness,Sports,Fitness,North Face,240.18,420.02,676,7.29,15x15x27cm,2025-02-06
+654,North Face Professional Water Sports,Sports,Water Sports,North Face,185.86,336.8,148,3.65,17x15x33cm,2021-01-13
+655,Patagonia Water Sports,Sports,Water Sports,Patagonia,40.36,93.64,306,0.88,6x10x35cm,2022-12-11
+656,North Face Deluxe Fitness,Sports,Fitness,North Face,150.3,308.84,361,2.31,24x12x5cm,2024-03-22
+657,Under Armour Deluxe Team Sports,Sports,Team Sports,Under Armour,51.25,105.26,631,2.0,30x20x35cm,2023-01-05
+658,Columbia Water Sports,Sports,Water Sports,Columbia,42.81,63.58,26,4.31,29x47x33cm,2024-03-28
+659,Columbia Deluxe Outdoor,Sports,Outdoor,Columbia,324.41,490.61,887,2.52,17x28x9cm,2023-01-17
+660,Under Armour Professional Outdoor,Sports,Outdoor,Under Armour,196.16,292.72,179,8.35,44x38x15cm,2021-04-21
+661,Adidas Basic Team Sports,Sports,Team Sports,Adidas,74.35,132.66,981,2.65,39x14x12cm,2023-12-08
+662,North Face Water Sports,Sports,Water Sports,North Face,20.72,51.66,420,4.95,42x10x12cm,2021-04-21
+663,Patagonia Deluxe Fitness,Sports,Fitness,Patagonia,116.59,290.61,545,8.69,22x40x41cm,2024-11-07
+664,North Face Fitness,Sports,Fitness,North Face,197.82,352.51,591,2.3,34x37x5cm,2024-09-14
+665,Columbia Professional Fitness,Sports,Fitness,Columbia,139.03,258.97,506,8.25,44x31x40cm,2022-01-01
+666,Patagonia Deluxe Winter Sports,Sports,Winter Sports,Patagonia,67.38,97.42,350,7.21,16x31x49cm,2023-11-18
+667,Columbia Deluxe Outdoor,Sports,Outdoor,Columbia,145.16,295.1,198,6.23,9x40x22cm,2021-11-04
+668,Columbia Deluxe Fitness,Sports,Fitness,Columbia,198.92,306.61,141,5.58,26x32x47cm,2020-12-12
+669,Adidas Deluxe Water Sports,Sports,Water Sports,Adidas,165.07,236.87,635,1.15,11x27x38cm,2024-08-22
+670,Adidas Winter Sports,Sports,Winter Sports,Adidas,133.69,276.56,837,4.17,24x46x45cm,2023-01-17
+671,Columbia Professional Team Sports,Sports,Team Sports,Columbia,153.34,239.88,990,4.73,13x26x49cm,2021-04-16
+672,North Face Professional Team Sports,Sports,Team Sports,North Face,164.85,271.33,52,2.59,17x36x32cm,2022-03-16
+673,Patagonia Basic Winter Sports,Sports,Winter Sports,Patagonia,29.54,69.67,280,0.9,49x8x11cm,2022-09-13
+674,Adidas Fitness,Sports,Fitness,Adidas,23.21,40.45,511,5.9,21x16x16cm,2020-09-01
+675,Columbia Professional Team Sports,Sports,Team Sports,Columbia,103.14,167.86,692,6.79,19x15x14cm,2023-02-09
+676,Columbia Outdoor,Sports,Outdoor,Columbia,120.93,253.66,65,3.72,28x43x36cm,2021-12-09
+677,Columbia Outdoor,Sports,Outdoor,Columbia,303.08,494.42,193,2.49,15x33x46cm,2022-12-30
+678,Nike Professional Team Sports,Sports,Team Sports,Nike,134.24,234.82,317,0.27,21x26x34cm,2024-07-13
+679,Patagonia Basic Fitness,Sports,Fitness,Patagonia,241.21,450.81,286,1.25,16x29x42cm,2024-06-04
+680,Under Armour Basic Outdoor,Sports,Outdoor,Under Armour,200.64,321.69,324,2.11,31x41x25cm,2025-06-11
+681,Nike Basic Water Sports,Sports,Water Sports,Nike,208.31,377.3,285,2.55,8x6x13cm,2021-03-22
+682,North Face Deluxe Fitness,Sports,Fitness,North Face,116.25,253.37,791,6.99,49x35x41cm,2023-01-11
+683,Under Armour Professional Outdoor,Sports,Outdoor,Under Armour,50.01,76.06,881,3.65,41x34x5cm,2021-08-26
+684,Nike Deluxe Water Sports,Sports,Water Sports,Nike,141.84,262.55,307,6.64,6x34x34cm,2021-05-29
+685,North Face Deluxe Water Sports,Sports,Water Sports,North Face,84.56,128.85,973,5.48,15x41x18cm,2025-03-01
+686,Under Armour Deluxe Team Sports,Sports,Team Sports,Under Armour,81.13,156.09,262,8.9,7x7x22cm,2024-07-25
+687,Nike Winter Sports,Sports,Winter Sports,Nike,185.15,395.95,334,0.54,22x23x33cm,2021-01-12
+688,Adidas Winter Sports,Sports,Winter Sports,Adidas,124.0,297.8,666,5.35,23x21x45cm,2024-10-16
+689,North Face Professional Team Sports,Sports,Team Sports,North Face,290.79,423.63,169,1.26,15x14x32cm,2025-03-17
+690,North Face Professional Winter Sports,Sports,Winter Sports,North Face,241.1,390.14,689,1.24,15x47x14cm,2022-03-09
+691,Nike Winter Sports,Sports,Winter Sports,Nike,143.58,316.39,654,1.81,6x40x23cm,2021-06-01
+692,North Face Outdoor,Sports,Outdoor,North Face,31.15,45.54,130,1.7,19x29x19cm,2020-09-04
+693,Adidas Deluxe Fitness,Sports,Fitness,Adidas,216.27,377.62,610,1.64,18x40x22cm,2022-03-20
+694,Columbia Basic Winter Sports,Sports,Winter Sports,Columbia,44.26,70.99,395,1.33,32x39x5cm,2021-07-10
+695,Under Armour Basic Team Sports,Sports,Team Sports,Under Armour,32.77,78.27,790,9.63,16x23x36cm,2020-12-25
+696,Under Armour Basic Team Sports,Sports,Team Sports,Under Armour,28.55,59.75,562,0.95,17x6x40cm,2025-05-31
+697,Under Armour Basic Winter Sports,Sports,Winter Sports,Under Armour,44.98,99.41,831,3.61,30x15x27cm,2025-03-21
+698,Under Armour Basic Outdoor,Sports,Outdoor,Under Armour,122.04,211.4,899,2.69,41x31x9cm,2021-05-19
+699,Under Armour Deluxe Fitness,Sports,Fitness,Under Armour,238.27,372.74,890,9.02,21x42x46cm,2023-03-30
+700,Under Armour Professional Outdoor,Sports,Outdoor,Under Armour,203.91,294.06,843,2.18,8x49x8cm,2025-01-12
+701,North Face Water Sports,Sports,Water Sports,North Face,133.47,239.8,82,7.05,13x41x21cm,2023-10-14
+702,Nike Deluxe Team Sports,Sports,Team Sports,Nike,168.16,303.84,172,4.2,17x35x17cm,2025-02-10
+703,Columbia Basic Outdoor,Sports,Outdoor,Columbia,203.42,452.94,82,5.57,11x41x12cm,2025-07-26
+704,Patagonia Winter Sports,Sports,Winter Sports,Patagonia,175.01,352.44,241,8.59,12x19x31cm,2025-03-06
+705,Under Armour Deluxe Fitness,Sports,Fitness,Under Armour,311.85,465.19,828,0.99,16x21x45cm,2022-02-03
+706,Adidas Basic Water Sports,Sports,Water Sports,Adidas,212.77,427.11,127,6.72,18x40x8cm,2021-05-27
+707,Columbia Deluxe Team Sports,Sports,Team Sports,Columbia,88.85,129.77,848,8.09,21x31x37cm,2024-06-14
+708,Nike Winter Sports,Sports,Winter Sports,Nike,182.33,440.36,730,5.28,19x42x24cm,2021-09-08
+709,Patagonia Professional Outdoor,Sports,Outdoor,Patagonia,195.49,421.43,277,5.2,21x10x47cm,2022-08-31
+710,North Face Basic Team Sports,Sports,Team Sports,North Face,74.87,125.11,383,1.45,45x27x44cm,2024-09-14
+711,Columbia Team Sports,Sports,Team Sports,Columbia,144.38,305.55,831,6.87,22x18x21cm,2024-10-24
