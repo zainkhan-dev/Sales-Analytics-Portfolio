@@ -19,8 +19,7 @@ This Power BI project analyzes business performance across sales, customers, pro
 )
 
 ### Customer Analytics
-![Customer Analytics](<img width="747" height="431" alt="customer-analytics" src="https://github.com/user-attachments/assets/2ded4c40-36b0-4d41-8ca8-19879d20df8f" />
-)
+![Customer Analytics](https://github.com/zainkhan-dev/Sales-Analytics-Portfolio/blob/main/IMAGES/customer-analytics.png)
 
 ## 🛠️ Tools
 - Power BI Desktop
