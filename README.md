@@ -15,7 +15,7 @@ This Power BI project analyzes business performance across sales, customers, pro
 ![Executive Summary](https://github.com/zainkhan-dev/Sales-Analytics-Portfolio/blob/main/IMAGES/executive-summary.png)
 
 ### Sales Performance
-![Sales Performance](<img width="747" height="430" alt="sales-performance" src="https://github.com/user-attachments/assets/fe41a1de-d505-4f8c-b308-cca561fc8c56" />
+![Sales Performance](https://github.com/zainkhan-dev/Sales-Analytics-Portfolio/blob/main/IMAGES/sales-performance.png
 )
 
 ### Customer Analytics
